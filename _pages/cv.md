@@ -40,9 +40,9 @@ Honorable Mention (The Mathematical Contest in Modeling, 2012, USA)\
 
 -Activities
 ======
-* 2019.01 - Present:    Startup ‘**Nommas**’ co-founder in TAQADAM Accelerator (2019) with $ 20K grant-funding
-* 2020.03 - 2020.04: Mixed Reality (MR) Intern at NEOM Smart City, RIyadh, KSA
-* 2019.08 - 2020.06: Residential Assistant in the Office of Residential Life, Graduate Affairs, KAUST
-* 2017.09 - 2018.12: Teaching Assistant in course EE241 Digital Communication and Coding, KAUST
-* 2016.09 - 2018.09: Chinese Language Teacher in Culture & Language Exchange Group, KAUST
+* 2019.01 - Present:    Startup ‘**Nommas’ co-founder** in TAQADAM Accelerator (2019) with $ 20K grant-funding
+* 2020.03 - 2020.04: **Mixed Reality (MR) Intern** at NEOM Smart City, RIyadh, KSA
+* 2019.08 - 2020.06: **Residential Assistant** in the Office of Residential Life, Graduate Affairs, KAUST
+* 2017.09 - 2018.12: **Teaching Assistant** in course EE241 Digital Communication and Coding, KAUST
+* 2016.09 - 2018.09: **Chinese Language Teacher** in Culture & Language Exchange Group, KAUST
 
