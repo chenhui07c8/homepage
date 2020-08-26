@@ -16,10 +16,10 @@ author_profile: false
 </p>
 
 <p float="left">
-  <img src="/images/bio-photo.png" width="100" />
+  <img src="/images/bio-photo.jpg" width="100" />
   <img src="/images/7_IOV.png" width="200" />
   <img src="/images/7_IOV.png" width="200" />
-  <img src="/images/bio-photo" width="200" />
+  <img src="/images/bio-photo.jpg" width="200" />
   <img src="/images/7_IOV.png" width="200" />
 </p>
 
