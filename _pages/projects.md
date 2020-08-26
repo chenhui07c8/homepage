@@ -12,7 +12,10 @@ author_profile: false
 
 <p float="left">
   <img src="/images/7_IOV.png" width="100" />
-  <img src="/images/7_IOV.png" width="100" /> \
+  <img src="/images/7_IOV.png" width="100" /> 
+</p>
+
+<p float="left">
   <img src="/images/7_IOV.png" width="100" />
   <img src="/images/7_IOV.png" width="200" />
   <img src="/images/7_IOV.png" width="200" />
