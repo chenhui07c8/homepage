@@ -11,13 +11,13 @@ author_profile: false
 ## Cooperative-Positioning and Decision-Making for IoT/IoV (ongoing)
 
 <p float="left">
-  <img src="/images/7_IOV.png" width="300" />
-  <img src="/images/7_IOV.png" width="300" /> \
-  <img src="/images/7_IOV.png" width="300" />
-  <img src="/images/7_IOV.png" width="300" />
-  <img src="/images/7_IOV.png" width="300" />
-  <img src="/images/7_IOV.png" width="300" />
-  <img src="/images/7_IOV.png" width="300" />
+  <img src="/images/7_IOV.png" width="100" />
+  <img src="/images/7_IOV.png" width="100" /> \
+  <img src="/images/7_IOV.png" width="100" />
+  <img src="/images/7_IOV.png" width="200" />
+  <img src="/images/7_IOV.png" width="200" />
+  <img src="/images/7_IOV.png" width="200" />
+  <img src="/images/7_IOV.png" width="200" />
 </p>
 
 We want to: a). design and evaluate assisted positioning algorithms with moving anchors (UAVs) for Internet-of-Things (IoT); b). design and evaluate cooperative positioning algorithms for Internet-of-Vehicles (IoV); c). design RL-based (Reinforcement Learning) motion planning and communication strategy to achieve a better system positioning performance.
