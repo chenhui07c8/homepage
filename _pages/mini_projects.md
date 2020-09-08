@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Mini-Projects"
-permalink: /miniprojects/
+title: "Mini-projects"
+permalink: /mini_projects/
 author_profile: false
 
 ---
