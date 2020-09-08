@@ -8,9 +8,10 @@ author_profile: false
 
 {% include base_path %}
 
--Education
-======
-* Ph.D in Electrical Engineering, King Abdullah University of Science and Technology, 2021 (expected)
-* M.S. in Computer Engineering, University of Chinese Academy of Sciences, 2016
-* B.S. in Electrical Engineering, Beijing Forestry University, 2013
+---
 
+## Virtual Kitchen Simulator (ongoing)
+
+<img align="right" width="200" height="125" src="/images/4_VRKITCHEN.png">
+
+In this project, we built a virtual kitchen environment with a variety of built-in items such as kitchen tools, fruits, vegetable and so on. Kitchen Simulator intends to be: a). a virtual training environment for the users to learn how to use the tools inside a kitchen. b). a tool for the users to learn the name, nutrition information, cooking procedures of different dishes. c). a platform to analyze users’ behavior and preferences. The analyzing results could further be used in smart glass (AR) based kitchen/home assistant.
