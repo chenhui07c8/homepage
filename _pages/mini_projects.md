@@ -22,7 +22,7 @@ author_profile: false
 
 ## Smart Tap (NEOM AI Challenge Project)
 
-<img align="right" width="300" height="188" src="/images/smart_tap_demo.PNG">
+<img align="right" width="300" height="188" src="/images/smart_tap_demo.png">
 **Description**:
-In this project, we built a virtual kitchen environment with a variety of built-in items such as kitchen tools, fruits, vegetable and so on. Kitchen Simulator intends to be: a). a virtual training environment for the users to learn how to use the tools inside a kitchen. b). a tool for the users to learn the name, nutrition information, cooking procedures of different dishes. c). a platform to analyze users’ behavior and preferences. The analyzing results could further be used in smart glass (AR) based kitchen/home assistant. \[[Demo Video](https://www.youtube.com/watch?v=5-30Z7Omugw)\]\
+We propose an AI-controlled tap to reduce the water wastage. In this system, a depth camera monitors the person and tracks the body joints information. The joint information is passed to a trained network to predict the future actions of the person and control the on/off of the tap. Wudu (very important procedure before the prayer in Islamic Countries) is performed as an example to evaluate the system. \[[Demo Video](https://www.youtube.com/watch?v=5-30Z7Omugw)\]\
 My Contribution: System integration and VR scene development. 
