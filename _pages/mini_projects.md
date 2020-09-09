@@ -22,7 +22,7 @@ author_profile: false
 
 ## Smart Tap (NEOM AI Challenge Project)
 
-<img align="right" width="300" height="188" src="/images/smart_tap_demo.png">
+<img align="right" width="300" height="188" src="/images/smart_tap_demo.PNG">
 **Description**:
 In this project, we built a virtual kitchen environment with a variety of built-in items such as kitchen tools, fruits, vegetable and so on. Kitchen Simulator intends to be: a). a virtual training environment for the users to learn how to use the tools inside a kitchen. b). a tool for the users to learn the name, nutrition information, cooking procedures of different dishes. c). a platform to analyze users’ behavior and preferences. The analyzing results could further be used in smart glass (AR) based kitchen/home assistant. \[[Demo Video](https://www.youtube.com/watch?v=5-30Z7Omugw)\]\
 My Contribution: System integration and VR scene development. 
