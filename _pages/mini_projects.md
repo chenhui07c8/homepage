@@ -23,6 +23,6 @@ author_profile: false
 ## Smart Tap (NEOM AI Challenge Project)
 
 <img align="right" width="300" height="188" src="/images/smart_tap_demo.png">
-**Description**:
-We propose an AI-controlled tap to reduce the water wastage. In this system, a depth camera monitors the person and tracks the body joints information. The joint information is passed to a trained network to predict the future actions of the person and control the on/off of the tap. Wudu (very important procedure before the prayer in Islamic Countries) is performed as an example to evaluate the system. \[[Demo Video](https://www.youtube.com/watch?v=5-30Z7Omugw)\]\
+
+**Description**:We propose an AI-controlled tap to reduce the water wastage. In this system, a depth camera monitors the person and tracks the body joints information. The joint information is passed to a trained network to predict the future actions of the person and control the on/off of the tap. Wudu (very important procedure before the prayer in Islamic Countries) is performed as an example to evaluate the system. \[[Demo Video](https://www.youtube.com/watch?v=5-30Z7Omugw)\]\
 My Contribution: System integration and VR scene development. 
