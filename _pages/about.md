@@ -14,7 +14,7 @@ Hui Chen is currently a Ph.D. student in Electrical Engineering at [King Abdulla
 
 What is new:
 =====
-**2020.09:**  Participating [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap).\
+**2020.10:**  Participating [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.09:**  Defended my Ph.D. thesis proposal: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
 **2020.06:**  One paper accepted to **Eusipco 2020**, Amsterdam, Netherlands:"[Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration](https://www.researchgate.net/publication/342444512_Phase-difference-based_3-D_Source_Localization_Using_a_Compact_Receiver_Configuration)".\
 **2020.05:**  One paper accepted to **IEEE Transactions on Instrumentation and Measurement**: "[Air-writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)".\
