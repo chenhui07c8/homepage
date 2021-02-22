@@ -14,9 +14,11 @@ Hui Chen is currently a Ph.D. student in Electrical Engineering at [King Abdulla
 
 What is new:
 =====
+**2021.01:**  One paper accepted to **IEEE Signal Processing Letters**: "[A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)".\
+**2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020**, Amsterdam, Netherlands:"[Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)".\
+**2020.10:**  Started an exciting project **Terahertz (THz) Signal Localization**.\
 **2020.10:**  Participating [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.09:**  Defended my Ph.D. thesis proposal: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
-**2020.06:**  One paper accepted to **Eusipco 2020**, Amsterdam, Netherlands:"[Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration](https://www.researchgate.net/publication/342444512_Phase-difference-based_3-D_Source_Localization_Using_a_Compact_Receiver_Configuration)".\
 **2020.05:**  One paper accepted to **IEEE Transactions on Instrumentation and Measurement**: "[Air-writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)".\
 **2020.04:**  One paper accepted to **IEEE Wireless Communications Letters**: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)".\
 **2020.04:**  Completed an **Internship at NEOM** working as a Mixed Reality Developer.\
