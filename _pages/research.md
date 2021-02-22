@@ -28,7 +28,7 @@ author_profile: false
 
 <img align="right" width="200" height="125" src="/images/7_IOV.png">
 
-We want to: a). design and evaluate assisted positioning algorithms with moving anchors (UAVs) for Internet-of-Things (IoT); b). design and evaluate cooperative positioning algorithms for Internet-of-Vehicles (IoV); c). design RL-based (Reinforcement Learning) motion planning and communication strategy to achieve a better system positioning performance.
+Terahertz (THz) communication is expected as an enabler for future sixth-generation (6G) communication systems. Instead of being a byproduct of the communication systems, localization in 6G is indispensable for location-aware communications. In this project, we plan to study the three components in THz signal-based localization; namely, initial access, aligned localization, and cooperative localization. We will also discuss the objectives and constraints of the localization system, and the optimization strategies at both the system-level and beam-level. 
 
 ---
 
