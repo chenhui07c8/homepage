@@ -26,7 +26,7 @@ author_profile: false
 
 ## Terahertz Signal Localization
 
-<img align="right" width="200" height="125" src="/images/7_IOV.png">
+<img align="right" width="200" height="125" src="/images/fig_thz.png">
 
 Terahertz (THz) communication is expected as an enabler for future sixth-generation (6G) communication systems. Instead of being a byproduct of the communication systems, localization in 6G is indispensable for location-aware communications. In this project, we plan to study the three components in THz signal-based position and orientation estimation; namely, initial access, aligned localization, and cooperative localization. We will also discuss the objectives and constraints of the localization system, and the optimization strategies at both the system-level and beam-level. 
 
