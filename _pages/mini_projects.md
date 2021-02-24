@@ -10,7 +10,7 @@ author_profile: false
 
 ---
 
-## Virtual Kitchen Simulator (ongoing)
+## Virtual Kitchen Simulator
 
 <img align="right" width="300" height="188" src="/images/4_VRKITCHEN.png">
 
