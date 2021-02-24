@@ -15,7 +15,7 @@ Hui Chen is currently a Ph.D. student in Electrical Engineering at [King Abdulla
 What is new:
 =====
 **2021.01:**  Our work accepted in **IEEE Signal Processing Letters**: "[A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)".\
-**2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020**, Amsterdam, Netherlands:"[Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)".\
+**2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020** (online), Amsterdam, Netherlands:"[Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)".\
 **2020.10:**  Started an exciting project **Terahertz (THz) Signal Localization**.\
 **2020.10:**  Participating [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.09:**  Defended my Ph.D. thesis proposal: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
