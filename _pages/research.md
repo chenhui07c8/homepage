@@ -33,7 +33,7 @@ Terahertz (THz) communication is expected as an enabler for future sixth-generat
 ---
 
 
-## Antenna Selection Algorithm for Switch-based MIMO System (ongoing)
+## Antenna Selection Algorithm for Switch-based MIMO System
 
 <img align="right" width="200" height="125" src="/images/6_MIMO.png">
 
