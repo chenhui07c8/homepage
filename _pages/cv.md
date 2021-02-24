@@ -18,7 +18,7 @@ redirect_from:
   
 -Skills
 ======
-* **Languages**: Chinese (Mother tongue), English (Fluent), German (Beginner, A2), Arabic (Quitter :joy:)
+* **Languages**: Chinese (Mother tongue), English (Fluent)
 * **Programming**: MATLAB, Python (TensorFlow), C# (Unity 3D), C/C++ (Arduino), Verilog, VHDL
 * **Skills**: VR/AR Development, Interactive Simulation & Visualization, 3D Modeling
 
