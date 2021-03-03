@@ -35,8 +35,6 @@ National Scholarship (2‰, 3 times, 2010-2012, Ministry of Education of China)
 * **Awards**:\
 4th place in Microsoft Indoor Localization Competition (IPSN 2017, Pittsburgh, PA, USA)\
 1st Prize in Beijing, 3rd Prize in China (iCAN Contest 2012, Wuxi, China)\
-Honorable Mention (The Mathematical Contest in Modeling, 2012, USA)\
-3rd Prize (National Undergraduate Electronic Design Contest, 2012, Beijing, China)
 
 -Activities
 ======
