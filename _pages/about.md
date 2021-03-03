@@ -15,14 +15,14 @@ Hui Chen is currently a Ph.D. student in Electrical Engineering at [King Abdulla
 What is new:
 =====
 **2021.01:**  Our work accepted in **IEEE Signal Processing Letters**: "[A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)".\
-**2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020** (online), Amsterdam, Netherlands:"[Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)".\
+**2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020** (online), Amsterdam, Netherlands:"[Phase-Difference-Based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)".\
 **2020.10:**  Started an exciting project: **Terahertz (THz) Signal Localization**.\
 **2020.10:**  Participating [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.09:**  Defended my Ph.D. thesis proposal: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
-**2020.05:**  Our work accepted in **IEEE Transactions on Instrumentation and Measurement**: "[Air-writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)".\
+**2020.05:**  Our work accepted in **IEEE Transactions on Instrumentation and Measurement**: "[Air-Writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)".\
 **2020.04:**  Our work accepted in **IEEE Wireless Communications Letters**: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)".\
 **2020.04:**  Completed an **Internship at NEOM** working as a Mixed Reality Developer.\
-**2019.09:**  Presented (**Oral**) our paper in **Eusipco 2019**, A Coruna, Spain: "[Realtime 2-D DOA Estimation using Phase-Difference Projection (PDP)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804)".\
+**2019.09:**  Presented (**Oral**) our paper in **Eusipco 2019**, A Coruna, Spain: "[Realtime 2-D DOA Estimation Using Phase-Difference Projection (PDP)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804)".\
 **2019.08:**  Started to work as an **RA (Residential Assistant)** in the Office of Residential Life, Graduate Affairs, KAUST.\
 **2019.08:**  One US Patent filed, No.10,386,481: "[Angle-of-arrival-based gesture recognition system and method](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)".\
 **2019.02:**  Presented (**Poster**) our paper in **IEEE VR 2019**, Osaka, Japan: "[A Decomposition Approach for Complex Gesture Recognition Using DTW and Prefix Tree](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797868)".\
@@ -32,7 +32,7 @@ What is new:
 **2018.08:**  TA in graduate course EE242 Digital Communication and Coding (2018-2019 Fall).\
 **2018.08:**  Guided two summer interns with project "[Real-time Arabic Air-writing Character Recognition](https://ssi.kaust.edu.sa/overview)".\
 **2018.04:**  Presented “[UBAS: An Ultrasound Based Air-writing System](https://2018.ieeeicassp.org/Demos.asp)” in **ICASSP 2018** Demo session, Calgary, Canada.\
-**2017.09:**  Presented (**Oral**) our paper in **Eusipco 2017**, Kos, Greece: "[Angle-of-arrival-based gesture recognition using ultrasonic multi-frequency signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)".\
+**2017.09:**  Presented (**Oral**) our paper in **Eusipco 2017**, Kos, Greece: "[Angle-of-Arrival-Based Gesture Recognition Using Ultrasonic Multi-frequency Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)".\
 **2017.08:**  TA in graduate course EE242 Digital Communication and Coding (2017-2018 Fall).\
 **2017.04:**  Obtained the **4th place** in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).\
 **2017.02:**  Successfully passed the written EE **PhD qualifying exam**.\
