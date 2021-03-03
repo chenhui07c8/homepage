@@ -24,7 +24,7 @@ What is new:
 **2020.04:**  Completed an **Internship at NEOM** working as a Mixed Reality Developer.\
 **2019.09:**  Presented (**Oral**) our paper in **Eusipco 2019**, A Coruna, Spain: "[Realtime 2-D DOA Estimation Using Phase-Difference Projection (PDP)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804)".\
 **2019.08:**  Started to work as an **RA (Residential Assistant)** in the Office of Residential Life, Graduate Affairs, KAUST.\
-**2019.08:**  One US Patent filed, No.10,386,481: "[Angle-of-arrival-based gesture recognition system and method](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)".\
+**2019.08:**  One US Patent filed, No.10,386,481: "[Angle-of-Arrival-Based Gesture Recognition System and Method](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)".\
 **2019.02:**  Presented (**Poster**) our paper in **IEEE VR 2019**, Osaka, Japan: "[A Decomposition Approach for Complex Gesture Recognition Using DTW and Prefix Tree](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797868)".\
 **2019.03:**  Our startup "[Nommas](https://innovation.kaust.edu.sa/taqadam-startups/)" selected into [Taqadam](https://innovation.kaust.edu.sa/taqadam/) Accelerator (2019-Cohort 3) with $20K USD funding.\
 **2019.01:**  Our startup "Nommas" selected into the Taqadam **Pre-Accelerator phase** from 518 applications.\
