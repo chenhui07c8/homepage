@@ -25,18 +25,18 @@ redirect_from:
 
 -Honors & Awards
 =====
-* Scholarship:\
-2016-2021: King Abdullah University of Science and Technology Fellowship (KAUST Fellowship)\
-     2013: Chinese Academy of Sciences Excellent Undergraduate Scholarship\
-2010-2012: National Scholarship (2‰, 3 times, Ministry of Education of China)
-* Honors:\
-     2013: 'Outstanding Graduate of Beijing' Award (Beijing Municipal Commission of Education)\
-     2011: 'Merit Student of Beijing' Award (Beijing Municipal Commission of Education)
-* Awards:\
-     2017: 4th place in Microsoft Indoor Localization Competition (IPSN 2017, Pittsburgh, PA, USA)\
-     2012: 1st Prize in Beijing, 3rd Prize in China (iCAN Contest 2012, Wuxi, China)\
-     2012: Honorable Mention (The Mathematical Contest in Modeling, 2012, USA)\
-     2012: 3rd Prize (National Undergraduate Electronic Design Contest, 2012, Beijing, China)
+* **Scholarship**:\
+King Abdullah University of Science and Technology Fellowship (KAUST Fellowship, 2016-2021)\
+Chinese Academy of Sciences Excellent Undergraduate Scholarship (2013)\
+National Scholarship (2‰, 3 times, 2010-2012, Ministry of Education of China)
+* **Honors**:\
+'Outstanding Graduate of Beijing' Award (2013, Beijing Municipal Commission of Education)\
+'Merit Student of Beijing' Award (2011, Beijing Municipal Commission of Education)
+* **Awards**:\
+4th place in Microsoft Indoor Localization Competition (IPSN 2017, Pittsburgh, PA, USA)\
+1st Prize in Beijing, 3rd Prize in China (iCAN Contest 2012, Wuxi, China)\
+Honorable Mention (The Mathematical Contest in Modeling, 2012, USA)\
+3rd Prize (National Undergraduate Electronic Design Contest, 2012, Beijing, China)
 
 -Activities
 ======
