@@ -10,7 +10,7 @@ author_profile: false
 
 -Ongoing Works:
 ======
-[**O1**] Tarboush S, Sarieddeen H, **Chen H**, Loukil MH, Jemaa H, Alouini MS, Al-Naffouri TY. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." arXiv preprint arXiv:2104.11054 (2021). \[[paper](https://arxiv.org/pdf/2104.11054.pdf)\]
+[**O1**] Tarboush S, Sarieddeen H, **Chen H**, Loukil MH, Jemaa H, Alouini MS, Al-Naffouri TY. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." arXiv preprint arXiv:2104.11054, 2021. \[[paper](https://arxiv.org/pdf/2104.11054.pdf)\]
 
 -Journal Papers:
 ======
