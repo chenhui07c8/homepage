@@ -16,7 +16,7 @@ What is new:
 =====
 **2021.08:**  Start working as a **Postdoc** at Chalmers University of Technology.\
 **2021.07:**  Our work accepted in **IEEE Wireless Communications Letters**: "[DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach](https://ieeexplore.ieee.org/document/9506874)".\
-**2020.07:**  Defended my Ph.D. thesis proposal: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
+**2020.07:**  Defended my **Ph.D. Thesis**: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
 **2020.06:** Our **Waste Management** project is selected to present in Swiss–Middle East Circular Economy for Youth Initiative ([SMECEYI](https://swisspavilion.org/recycling-with-nommas/)), Swiss Pavilion, Expo Dubai, UAE.\
 **2020.04:** Our **Smart Tap** project won first place in the Digital Research track at the [Digital Innovation Awards](https://cemse.kaust.edu.sa/stat/news/kaust-research-group-win-inaugural-mcit-digital-innovation-award), launched by the Ministry of Communications and Information Technology ([MCIT](https://www.mcit.gov.sa/en)), Saudi Arabia.\
 **2021.01:**  Our work accepted in **IEEE Signal Processing Letters**: "[A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)".\
