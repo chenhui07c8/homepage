@@ -16,7 +16,6 @@ author_profile: false
 ======
 [**J4**] **Hui Chen**, Tarig Ballal, and Tareq Y. Al-Naffouri. "DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach" IEEE Wireless Communications Letters (2021). \[[paper](https://ieeexplore.ieee.org/document/9506874)\]\
 [**J3**] Xiuxiu Ma, Tarig Ballal, **Hui Chen**, Omar Aldayel, and Tareq Y. Al-Naffouri. "A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming." IEEE Signal Processing Letters 28 (2021): 309-313. \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)\]\
-Xiuxiu Ma, Tarig Ballal, **Hui Chen**, Omar Aldayel, and Tareq Y. Al-Naffouri. "A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming." IEEE Signal Processing Letters 28 (2021): 309-313.
 [**J2**] **Hui Chen**, Tarig Ballal, Ali Hussein Muqaibel, Xiangliang Zhang, and Tareq Y. Al-Naffouri. "Air-writing via Receiver Array-based Ultrasonic Source Localization." IEEE Transactions on Instrumentation and Measurement 69, no. 10 (2020): 8088-8101. \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]\
 [**J1**] **Hui Chen**, Tarig Ballal, Nasir Saeed, Mohamed-Slim Alouini, and Tareq Y. Al-Naffouri. "A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters 9, no. 8 (2020): 1240-1244. \[[paper](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)\]\[[material](https://www.researchgate.net/publication/340460207_A_Lower_Bound_for_Joint_TDOA-PDOA_Localization)\]\[[code](https://github.com/chenhui07c8/Localization-algorithms/tree/master/TDOA-PDOA%20Localization)\]
 
@@ -31,6 +30,6 @@ Xiuxiu Ma, Tarig Ballal, **Hui Chen**, Omar Aldayel, and Tareq Y. Al-Naffouri. "
 
 -Patents:
 ======
-[**P3**] **Hui Chen**, Tarig Ahmed, Tareq Al-Naffouri. “Ultrasound based air-writing system and method”, ( U.S. Patent No. 16,969,037, filed February 4, 2021.). \[[patent](https://patentimages.storage.googleapis.com/83/11/f1/426dea83615411/US20210033693A1.pdf)\]\
-[**P2**] **Hui Chen**, Tarig Ahmed, Mohamed, Saadeldin, Tareq Al-Naffouri. “Angle-of-arrival-based Gesture Recognition System and Method”, (2019.US Patent No. 10,386,481, issued 20 Aug. 2019). \[[patent](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)\]\
+[**P3**] **Hui Chen**, Tarig Ahmed, Tareq Al-Naffouri. “Ultrasound based air-writing system and method”, (US Patent No. 16,969,037, filed February 4, 2021). \[[patent](https://patentimages.storage.googleapis.com/83/11/f1/426dea83615411/US20210033693A1.pdf)\]\
+[**P2**] **Hui Chen**, Tarig Ahmed, Mohamed Saadeldin, Tareq Al-Naffouri. “Angle-of-arrival-based Gesture Recognition System and Method”, (US Patent No. 10,386,481, issued 20 Aug. 2019). \[[patent](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)\]\
 [**P1**] Zheng Yili, Yan Lei, Li Ning, **Chen Hui**, Guo Jiao, Lei Yidan. "E-communication terminal for remote emotion communication among relatives and friends”, (CN. Patent No. 102968078A, 2013-03-13).
