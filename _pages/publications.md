@@ -15,7 +15,7 @@ author_profile: false
 -Journal Papers:
 ======
 [**J4**] **Chen H**, Ballal T, Al-Naffouri TY. "DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach." IEEE Wireless Communications Letters, 2021. \[[paper](https://ieeexplore.ieee.org/document/9506874)\]\
-[**J3**] Ma X, Tarig Ballal, **Hui Chen**, Omar Aldayel, and Tareq Y. Al-Naffouri. "A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming." IEEE Signal Processing Letters, 2021. \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)\]\
+[**J3**] Ma X, Ballal T, **Chen H**, Aldayel O, Al-Naffouri TY. "A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming." IEEE Signal Processing Letters, 2021. \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)\]\
 [**J2**] **Chen H**, Ballal T, Muqaibel AH, Zhang X, Al-Naffouri TY. "Air-writing via Receiver Array-based Ultrasonic Source Localization." IEEE Transactions on Instrumentation and Measurement, 2020. \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]\
 [**J1**] **Chen H**, Ballal T, Saeed N, Alouini MS, Al-Naffouri TY. "A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters, 2020. \[[paper](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)\]\[[material](https://www.researchgate.net/publication/340460207_A_Lower_Bound_for_Joint_TDOA-PDOA_Localization)\]\[[code](https://github.com/chenhui07c8/Localization-algorithms/tree/master/TDOA-PDOA%20Localization)\]
 
