@@ -10,15 +10,17 @@ redirect_from:
 
 Biography:
 =====
-Hui Chen is currently a Ph.D. student in Electrical Engineering at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), Thuwal, Saudi Arabia. He works at [Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl) supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri). He received the B.S. degree in electrical engineering from Beijing Forestry University, Beijing, China, in 2013, and the M.S. Degree in computer engineering from the University of Chinese Academy of Sciences (UCAS), Beijing, China, in 2016. His current research interests include Positioning & Localization, Human-Computer Interaction (HCI), DOA Estimation, Machine Learning for Signal Processing, and Stochastic Optimization.
+Hui Chen is currently a Postdoc in the Communication Systems Group, Department of Electrical Engineering, [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) ([CROSSNET Team](https://sites.google.com/site/hwymeers/research-group) led by Prof. [Henk Wymeersch](https://www.chalmers.se/en/staff/Pages/henk-wymeersch.aspx)), Gothenburg, Sweden. He received the B.S. degree in electrical engineering from Beijing Forestry University, Beijing, China, in 2013, and the M.S. Degree in computer application technology from the University of Chinese Academy of Sciences (UCAS), Beijing, China, in 2016, and the Ph.D. Degree in electrical and computer engineering from [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl)) supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri))), Thuwal, Saudi Arabia, in 2021. His current research interests include 5G/6G Signal (mmWave/THz) Localization, Stochastic Optimization, and Machine Learning for Signal Processing.
 
 What is new:
 =====
+**2021.08:**  Start working as a **Postdoc** at Chalmers University of Technology.\
+**2021.07:**  Our work accepted in **IEEE Wireless Communications Letters**: "[DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach](https://ieeexplore.ieee.org/document/9506874)".\
+**2020.07:**  Defended my Ph.D. thesis proposal: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
 **2021.01:**  Our work accepted in **IEEE Signal Processing Letters**: "[A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)".\
 **2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020** (online), Amsterdam, Netherlands:"[Phase-Difference-Based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)".\
 **2020.10:**  Started an exciting project: **Terahertz (THz) Signal Localization**.\
 **2020.10:**  Participating [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
-**2020.09:**  Defended my Ph.D. thesis proposal: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
 **2020.05:**  Our work accepted in **IEEE Transactions on Instrumentation and Measurement**: "[Air-Writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)".\
 **2020.04:**  Our work accepted in **IEEE Wireless Communications Letters**: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)".\
 **2020.04:**  Completed an **Internship at NEOM** working as a Mixed Reality Developer.\
