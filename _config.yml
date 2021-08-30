@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hui Chen"
   avatar           : "chenhui_photo.png"
-  bio              : "Ph.D. Student at KAUST, working on Positioning & Localization, Machine Learning for Signal Processing, Stochastic Optimization."
-  location         : "KAUST, Thuwal 23955-6900"
+  bio              : "Postdoc at Chalmers University of Technology, working on 5G/6G Signal (mmWave/THz) Localization, Stochastic Optimization, and Machine Learning for Signal Processing."
+  location         : "Chalmersplatsen 4, 412 96 Göteborg"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=i8_ipXIAAAAJ&hl=en"
-  email            : "hui.chen@kaust.edu.sa"
+  email            : "hui.chen@chalmers.se"
   researchgate     : "https://www.researchgate.net/profile/Hui_Chen202"
   uri              :
   bitbucket        :
