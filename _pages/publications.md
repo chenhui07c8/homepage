@@ -41,7 +41,7 @@ Journal Papers:
 
 Conference Papers:
 ======
-[**C6**] Chen H, Aghdam SR, Keskin MF, Wu Y, Lindberg S, Wolfgang A, Gustavsson U, Eriksson T, Wymeersch H. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
+[**C6**] **Chen H**, Aghdam SR, Keskin MF, Wu Y, Lindberg S, Wolfgang A, Gustavsson U, Eriksson T, Wymeersch H. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
 \
 [**C5**] **Chen H**, Ballal T, Al-Naffouri TY. "Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration." 28th European Signal Processing Conference (EUSIPCO, IEEE), 2021. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)\]
