@@ -43,10 +43,10 @@ Conference Papers:
 ======
 [**C6**] **Chen H**, Aghdam SR, Keskin MF, Wu Y, Lindberg S, Wolfgang A, Gustavsson U, Eriksson T, Wymeersch H. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
 \
-[**C5**] **Chen H**, Ballal T, Al-Naffouri TY. "Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration." 28th European Signal Processing Conference (EUSIPCO, IEEE), 2021. (**Oral**). 
+[**C5**] **Chen H**, Ballal T, Al-Naffouri TY. "Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration." European Signal Processing Conference (EUSIPCO, IEEE), 2021. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)\]
 \
-[**C4**] **Chen H**, Ballal T, Liu X, Al-Naffouri TY. "Realtime 2-D DOA Estimation using Phase-Difference Projection (PDP).” 27th European Signal Processing Conference (EUSIPCO, IEEE), 2019. (**Oral**). 
+[**C4**] **Chen H**, Ballal T, Liu X, Al-Naffouri TY. "Realtime 2-D DOA Estimation using Phase-Difference Projection (PDP).” European Signal Processing Conference (EUSIPCO, IEEE), 2019. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804&tag=1)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms)\]
 \
@@ -59,7 +59,7 @@ Conference Papers:
 \[[poster](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2018%20GlobalSIP%20poster.pdf)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/2%20AOA%20Random%20Ferns)\]
 \
-[**C1**] **Chen H**, Ballal T, Saad M, Al-Naffouri TY. "Angle-of-arrival-based Gesture Recognition Using Ultrasonic Multi-frequency Signals." 2017 25th European Signal Processing Conference (EUSIPCO, IEEE), 2017. (**Oral**). 
+[**C1**] **Chen H**, Ballal T, Saad M, Al-Naffouri TY. "Angle-of-arrival-based Gesture Recognition Using Ultrasonic Multi-frequency Signals." European Signal Processing Conference (EUSIPCO, IEEE), 2017. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)\]
 \[[material](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2017%20Eusipco%20oral%20ppt.pdf)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/1%20AOA%20Search)\]
