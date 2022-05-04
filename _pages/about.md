@@ -10,11 +10,14 @@ redirect_from:
 
 Biography:
 =====
-Hui Chen is currently a postdoctoral researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) ([CROSSNET Team](https://sites.google.com/site/hwymeers/research-group), supervised by [Prof. Henk Wymeersch](https://www.chalmers.se/en/staff/Pages/henk-wymeersch.aspx)), Gothenburg, Sweden. He received the B.S. degree in electrical engineering from Beijing Forestry University, Beijing, China, in 2013, the M.S. Degree in computer application technology from the University of Chinese Academy of Sciences (UCAS), Beijing, China, in 2016, and the Ph.D. Degree in electrical and computer engineering from King Abdullah University of Science and Technology (KAUST) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri)), Thuwal, Saudi Arabia, in 2021. His current research interests include 5G/6G Signal (mmWave/THz) Localization, Stochastic Optimization, and Machine Learning for Signal Processing.
+Hui Chen is currently a postdoctoral researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) ([CROSSNET Team](https://sites.google.com/site/hwymeers/research-group), supervised by [Prof. Henk Wymeersch](https://www.chalmers.se/en/staff/Pages/henk-wymeersch.aspx)), Gothenburg, Sweden. He received the B.S. degree in electrical engineering from Beijing Forestry University, Beijing, China, in 2013, the M.S. Degree in computer application technology from the University of Chinese Academy of Sciences (UCAS), Beijing, China, in 2016, and the Ph.D. Degree in electrical and computer engineering from King Abdullah University of Science and Technology (KAUST) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri)), Thuwal, Saudi Arabia, in 2021. His current research interests include 5G/6G (mmWave/THz) Localization, Stochastic Optimization, and Machine Learning for Signal Processing.
 
 What is new:
 =====
-**2021.08:**  Started working as a **Postdoc** at Chalmers University of Technology.\
+**2021.04:**  Our work accepted by **IEEE Communications Surveys & Tutorials**: "[A Tutorial on Terahertz-Band Localization for 6G Communication Systems](https://arxiv.org/pdf/2110.08581.pdf)".\
+**2022.03:**  Our work accepted by **IEEE ICC 2022 (workshop)**: "[MCRB-based Performance Analysis of 6G Localization under Hardware Impairments](https://arxiv.org/pdf/2204.12788.pdf)".\
+**2022.01:**  **Hexa-X Deliverable D3.1** is available: "[Localization and Sensing Use Cases and Gap Analysis](https://hexa-x.eu/wp-content/uploads/2022/02/Hexa-X_D3.1_v1.4.pdf)".\
+**2021.08:**  Started working as a **Postdoc** at Chalmers University of Technology (funded by the European Union's [Hexa-X](https://hexa-x.eu/) Project).\
 **2021.07:**  Our work accepted by **IEEE Wireless Communications Letters**: "[DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach](https://ieeexplore.ieee.org/document/9506874)".\
 **2021.07:**  Defended my Ph.D. Thesis: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
 **2021.06:** Our **Waste Management** project is selected to present in Swiss–Middle East Circular Economy for Youth Initiative ([SMECEYI](https://swisspavilion.org/recycling-with-nommas/)), Swiss Pavilion, Expo Dubai, UAE.\
@@ -44,6 +47,6 @@ What is new:
 **2016.07:**  Completed **Master’s study** in Computer Engineering at University of Chinese Academy of Sciences (UCAS).\
 **2015.06:**  Completed a **research internship** at KAUST working on indoor localization.\
 **2014.11:**  Accepted by **KAUST VSRP** (Visiting Student Research Program).\
-**2013.09:**  Recommended for **directly admission** without exams to [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and started my Master’s study in Computer Engineering.\
+**2013.09:**  Recommended for **Direct Admission** without exams to [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and started my Master’s study in Computer Engineering.\
 **2013.07:**  Completed **Bachelor’s study** in Electrical Engineering from Beijing Forestry University with “**Excellent Graduate Student of Beijing**” award.
 
