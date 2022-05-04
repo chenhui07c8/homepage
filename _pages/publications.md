@@ -48,18 +48,21 @@ Conference Papers:
 \
 [**C4**] **Chen H**, Ballal T, Liu X, Al-Naffouri TY. "Realtime 2-D DOA Estimation using Phase-Difference Projection (PDP).” 27th European Signal Processing Conference (EUSIPCO, IEEE), 2019. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804&tag=1)\]
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms)\]
 \
 [**C3**] **Chen H**, Ballal T, Al-Naffouri TY. "A Decomposition Approach for Complex Gesture Recognition Using DTW and Prefix Tree." IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019. (Poster). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797868)\]
-\[[code](https://github.com/chenhui07c8/Complex-Gesture-Recognition-using-DTW-and-Prefix-Tree)\]
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Complex-Gesture-Recognition-using-DTW-and-Prefix-Tree)\]
 \
 [**C2**] **Chen H**, Ballal T, Al-Naffouri TY. "Fast Phase-Difference-Based DOA Estimation Using Random Ferns." IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018. (Poster). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)\]
 \[[poster](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2018%20GlobalSIP%20poster.pdf)\]
-\[[code](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/2%20AOA%20Random%20Ferns)\]
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/2%20AOA%20Random%20Ferns)\]
 \
 [**C1**] **Chen H**, Ballal T, Saad M, Al-Naffouri TY. "Angle-of-arrival-based Gesture Recognition Using Ultrasonic Multi-frequency Signals." 2017 25th European Signal Processing Conference (EUSIPCO, IEEE), 2017. (**Oral**). 
-\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)\]\[[slides](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2017%20Eusipco%20oral%20ppt.pdf)\]\[[code](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/1%20AOA%20Search)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)\]
+\[[material](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2017%20Eusipco%20oral%20ppt.pdf)\]
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/1%20AOA%20Search)\]
 
 
 Patents:
