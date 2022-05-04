@@ -17,6 +17,7 @@ What is new:
 **2021.04:**  Our work accepted by **IEEE Communications Surveys & Tutorials**: "[A Tutorial on Terahertz-Band Localization for 6G Communication Systems](https://arxiv.org/pdf/2110.08581.pdf)".\
 **2022.03:**  Our work accepted by **IEEE ICC 2022 (workshop)**: "[MCRB-based Performance Analysis of 6G Localization under Hardware Impairments](https://arxiv.org/pdf/2204.12788.pdf)".\
 **2022.01:**  **Hexa-X Deliverable D3.1** is available: "[Localization and Sensing Use Cases and Gap Analysis](https://hexa-x.eu/wp-content/uploads/2022/02/Hexa-X_D3.1_v1.4.pdf)".\
+**2021.10:**  Our work accepted by **IEEE Transactions on Vehicular Technology**: "[TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications](https://ieeexplore.ieee.org/document/9591285)".\
 **2021.08:**  Started working as a **Postdoc** at Chalmers University of Technology (funded by the European Union's [Hexa-X](https://hexa-x.eu/) Project).\
 **2021.07:**  Our work accepted by **IEEE Wireless Communications Letters**: "[DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach](https://ieeexplore.ieee.org/document/9506874)".\
 **2021.07:**  Defended my Ph.D. Thesis: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!\
