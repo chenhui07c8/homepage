@@ -10,10 +10,15 @@ author_profile: false
 
 -Ongoing Works:
 ======
-[**O1**] Tarboush S, Sarieddeen H, **Chen H**, Loukil MH, Jemaa H, Alouini MS, Al-Naffouri TY. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." arXiv preprint arXiv:2104.11054, 2021. \[[paper](https://arxiv.org/pdf/2104.11054.pdf)\]
+Doppler-assisted Localization \[preprint\]\[<span style="color:red">code</span>\]
+
+Joint RIS Calibration and UE Localization \[preprint\]
+Model Mismatch Analysis \[preprint\]\[code\]
+Coverage Analysis \[preprint\]
 
 -Journal Papers:
 ======
+[**J5**] Tarboush S, Sarieddeen H, **Chen H**, Loukil MH, Jemaa H, Alouini MS, Al-Naffouri TY. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." arXiv preprint arXiv:2104.11054, 2021. \[[paper](https://arxiv.org/pdf/2104.11054.pdf)\]
 [**J4**] **Chen H**, Ballal T, Al-Naffouri TY. "DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach." IEEE Wireless Communications Letters, 2021. \[[paper](https://ieeexplore.ieee.org/document/9506874)\]\
 [**J3**] Ma X, Ballal T, **Chen H**, Aldayel O, Al-Naffouri TY. "A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming." IEEE Signal Processing Letters, 2021. \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)\]\
 [**J2**] **Chen H**, Ballal T, Muqaibel AH, Zhang X, Al-Naffouri TY. "Air-writing via Receiver Array-based Ultrasonic Source Localization." IEEE Transactions on Instrumentation and Measurement, 2020. \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]\
