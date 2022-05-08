@@ -10,56 +10,62 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**~J**] **Chen H**, Ballal T, Eltayeb M, Al-Naffouri TY. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology)
+[**~C**] **H. Chen**, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler- and. Multipath-assisted Single-BS mmWave Localization with a Single-Antenna UE." (Submitted to IEEE GLOBECOM 2022)
 \
-[**~J**] Liu X, Ballal T, **Chen H**, Al-Naffouri TY. "Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination." (Submitted to IEEE Transactions on Instrumentation and Measurement)
+[**~C**] **H. Chen**, A. Elzanaty, R. Ghazalian, M.F. Keskin, R. Jantti, and H. Wymeersch. "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective." (Submitted to IEEE GLOBECOM 2022)
+\[preprint comming soon\]
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/5G6G_Localization)\]
 \
-    
+[**~J**] **H. Chen**, T. Ballal, M. Eltayeb, and Al-Naffouri TY. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology)
+\
+[**~J**] X. Liu, T. Ballal, **H. Chen**, and T.Y. Al-Naffouri. "Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination." (Submitted to IEEE Transactions on Instrumentation and Measurement)
+\[[preprint](https://arxiv.org/pdf/2112.14813.pdf)\]\
+
 
 Journal Papers:
 ======
-[**J6**] **Chen H**, Sarieddeen H, Ballal T, Wymeersch H, Alouini MS, Al-Naffouri TY. "A Tutorial on Terahertz-Band Localization for 6G Communication Systems." accepted by IEEE Communications Surveys & Tutorials, 2022. 
+[**J6**] **H. Chen**, H. Sarieddeen, T. Ballal, H. Wymeersch, M.S. Alouini, and T.Y. Al-Naffouri. "A Tutorial on Terahertz-Band Localization for 6G Communication Systems." accepted by IEEE Communications Surveys & Tutorials, 2022. 
 \[[preprint](https://arxiv.org/pdf/2110.08581.pdf)\]\
-[**J5**] Tarboush S, Sarieddeen H, **Chen H**, Loukil MH, Jemaa H, Alouini MS, Al-Naffouri TY. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." IEEE Transactions on Vehicular Technology, 2021. 
+[**J5**] S. Tarboush, H. Sarieddeen, **H. Chen**, M.H. Loukil, H. Jemma, M.S. Alouini, and T.Y. Al-Naffouri. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." IEEE Transactions on Vehicular Technology, 2021. 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9591285)\]
 \[[<span style="color:blue">code</span>](https://github.com/hasarieddeen/TeraMIMO)\]\
-[**J4**] **Chen H**, Ballal T, Al-Naffouri TY. "DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach." IEEE Wireless Communications Letters, 2021. 
+[**J4**] **H. Chen**, T. Ballal, and T.Y. Al-Naffouri. "DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach." IEEE Wireless Communications Letters, 2021. 
 \[[paper](https://ieeexplore.ieee.org/document/9506874)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms)\]
 \
-[**J3**] Ma X, Ballal T, **Chen H**, Aldayel O, Al-Naffouri TY. "A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming." IEEE Signal Processing Letters, 2021. 
+[**J3**] X. Ma, T. Ballal, **H. Chen**, O. Aldayel, and T.Y. Al-Naffouri. "A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming." IEEE Signal Processing Letters, 2021. 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)\]
 \
-[**J2**] **Chen H**, Ballal T, Muqaibel AH, Zhang X, Al-Naffouri TY. "Air-writing via Receiver Array-based Ultrasonic Source Localization." IEEE Transactions on Instrumentation and Measurement, 2020. 
+[**J2**] **H. Chen**, T. Ballal, A.H. Muqaibel, X. Zhang, and T.Y. Al-Naffouri. "Air-writing via Receiver Array-based Ultrasonic Source Localization." IEEE Transactions on Instrumentation and Measurement, 2020. 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]
 \[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]
 \
-[**J1**] **Chen H**, Ballal T, Saeed N, Alouini MS, Al-Naffouri TY. "A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters, 2020. 
+[**J1**] **H. Chen**, T. Ballal, N. Saeed, M.S. Alouini, and T.Y. Al-Naffouri. "A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters, 2020. 
 \[[paper](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)\]
 \[[material](https://www.researchgate.net/publication/340460207_A_Lower_Bound_for_Joint_TDOA-PDOA_Localization)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Localization-algorithms/tree/master/TDOA-PDOA%20Localization)\]
 
 Conference Papers:
 ======
-[**C6**] **Chen H**, Aghdam SR, Keskin MF, Wu Y, Lindberg S, Wolfgang A, Gustavsson U, Eriksson T, Wymeersch H. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
+[**C6**] **H. Chen**, , S. Aghdam, M.F. Keskin, Y. Wu, S. Lindberg, A. Wolfgang, U. Gustavsson, T. Eriksson, and H. Wymeersch. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
 \
-[**C5**] **Chen H**, Ballal T, Al-Naffouri TY. "Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration." European Signal Processing Conference (EUSIPCO, IEEE), 2021. (**Oral**). 
+[**C5**] **H. Chen**, T. Ballal, and T.Y. Al-Naffouri. "Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration." European Signal Processing Conference (EUSIPCO, IEEE), 2021. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)\]
 \
-[**C4**] **Chen H**, Ballal T, Liu X, Al-Naffouri TY. "Realtime 2-D DOA Estimation using Phase-Difference Projection (PDP).” European Signal Processing Conference (EUSIPCO, IEEE), 2019. (**Oral**). 
+[**C4**] **H. Chen**, T. Ballal, X. Liu, and T.Y. Al-Naffouri. "Realtime 2-D DOA Estimation using Phase-Difference Projection (PDP).” European Signal Processing Conference (EUSIPCO, IEEE), 2019. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804&tag=1)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms)\]
 \
-[**C3**] **Chen H**, Ballal T, Al-Naffouri TY. "A Decomposition Approach for Complex Gesture Recognition Using DTW and Prefix Tree." IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019. (Poster). 
+[**C3**] **H. Chen**, T. Ballal, and T.Y. Al-Naffouri. "A Decomposition Approach for Complex Gesture Recognition Using DTW and Prefix Tree." IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019. (Poster). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797868)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Complex-Gesture-Recognition-using-DTW-and-Prefix-Tree)\]
 \
-[**C2**] **Chen H**, Ballal T, Al-Naffouri TY. "Fast Phase-Difference-Based DOA Estimation Using Random Ferns." IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018. (Poster). 
+[**C2**] **H. Chen**, T. Ballal, and T.Y. Al-Naffouri. "Fast Phase-Difference-Based DOA Estimation Using Random Ferns." IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018. (Poster). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)\]
 \[[poster](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2018%20GlobalSIP%20poster.pdf)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/2%20AOA%20Random%20Ferns)\]
 \
-[**C1**] **Chen H**, Ballal T, Saad M, Al-Naffouri TY. "Angle-of-arrival-based Gesture Recognition Using Ultrasonic Multi-frequency Signals." European Signal Processing Conference (EUSIPCO, IEEE), 2017. (**Oral**). 
+[**C1**] **H. Chen**, T. Ballal, M. Saad and T.Y. Al-Naffouri. "Angle-of-arrival-based Gesture Recognition Using Ultrasonic Multi-frequency Signals." European Signal Processing Conference (EUSIPCO, IEEE), 2017. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)\]
 \[[material](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2017%20Eusipco%20oral%20ppt.pdf)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/1%20AOA%20Search)\]
