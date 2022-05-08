@@ -10,7 +10,7 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**~C**] **H. Chen**, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler- and. Multipath-assisted Single-BS mmWave Localization with a Single-Antenna UE." (Submitted to IEEE GLOBECOM 2022)
+[**~C**] **H. Chen**, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler- and Multipath-assisted Single-BS mmWave Localization with a Single-Antenna UE." (Submitted to IEEE GLOBECOM 2022)
 \
 [**~C**] **H. Chen**, A. Elzanaty, R. Ghazalian, M.F. Keskin, R. Jantti, and H. Wymeersch. "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective." (Submitted to IEEE GLOBECOM 2022)
 \[preprint comming soon\]
