@@ -10,13 +10,15 @@ author_profile: false
 
 Ongoing Works:
 ======
+[**~C**] H. Chen, A. Elzanaty, R. Ghazalian, M.F. Keskin, R. Jantti, and H. Wymeersch. "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective." (Submitted to IEEE GLOBECOM 2022)
+\
 [**~C**] H. Chen, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler- and Multipath-assisted Single-BS mmWave Localization with a Single-Antenna UE." (Submitted to IEEE GLOBECOM 2022)
 \
-[**~C**] H. Chen, A. Elzanaty, R. Ghazalian, M.F. Keskin, R. Jantti, and H. Wymeersch. "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective." (Submitted to IEEE GLOBECOM 2022)
-\[preprint comming soon\]
-\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/5G6G_Localization)\]
+[**~C**] Y. Lu, H. Chen, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." (Submitted to IEEE GLOBECOM 2022)
 \
-[**~J**] H. Chen, T. Ballal, M. Eltayeb, and Al-Naffouri TY. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology)
+[**~C**] P. Zheng, T. Ballal, H. Chen, H. Wymeersch, and T.Y. Al-Naffouri. "Localization Coverage Analysis of THz Communication Systems with a 3D Array." (Submitted to IEEE GLOBECOM 2022)
+\
+[**~J**] H. Chen, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology)
 \
 [**~J**] X. Liu, T. Ballal, H. Chen, and T.Y. Al-Naffouri. "Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination." (Submitted to IEEE Transactions on Instrumentation and Measurement)
 \[[preprint](https://arxiv.org/pdf/2112.14813.pdf)\]
