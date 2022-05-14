@@ -49,5 +49,5 @@ What is new:
 **2016.07:**  Completed **Master’s study** in Computer Engineering at University of Chinese Academy of Sciences (UCAS).\
 **2014.11:**  Accepted by **KAUST VSRP** (Visiting Student Research Program), working on indoor localization..\
 **2013.09:**  Recommended for **Direct Admission** without exams to [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and started my Master’s study in Computer Engineering.\
-**2013.07:**  Completed **Bachelor’s study** in Electrical Engineering from Beijing Forestry University with three times “**National Scholarships**” award and “**Excellent Graduate Student of Beijing**” award.
+**2013.07:**  Completed **Bachelor’s study** in Electrical Engineering from Beijing Forestry University with three times (2010-2012) “**National Scholarship**” (awarded by the Ministry of Education of the China) and “**Excellent Graduate Student of Beijing**” award.
 
