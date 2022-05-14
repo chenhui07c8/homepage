@@ -27,11 +27,10 @@ What is new:
 **2021.04:** Our **Smart Tap** project won first place in the Digital Research track at the [Digital Innovation Awards](https://cemse.kaust.edu.sa/stat/news/kaust-research-group-win-inaugural-mcit-digital-innovation-award), launched by the Ministry of Communications and Information Technology ([MCIT](https://www.mcit.gov.sa/en)), Saudi Arabia.\
 **2021.01:**  Our work accepted by **IEEE Signal Processing Letters**: "[A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)".\
 **2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020** (online), Amsterdam, Netherlands:"[Phase-Difference-Based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)".\
-**2020.10:**  Started an exciting project: **Terahertz (THz) Signal Localization**.\
-**2020.10:**  Participating [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
+**2020.10:**  Participated [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.05:**  Our work accepted by **IEEE Transactions on Instrumentation and Measurement**: "[Air-Writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)".\
 **2020.04:**  Our work accepted by **IEEE Wireless Communications Letters**: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)".\
-**2020.04:**  Completed an **Internship at NEOM** working as a Mixed Reality Developer.\
+**2020.04:**  Started an **Internship at NEOM** working as a Mixed Reality Developer.\
 **2019.09:**  Presented (**Oral**) our paper in **Eusipco 2019**, A Coruna, Spain: "[Realtime 2-D DOA Estimation Using Phase-Difference Projection (PDP)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804)".\
 **2019.08:**  Started to work as an **RA (Residential Assistant)** in the Office of Residential Life, Graduate Affairs, KAUST.\
 **2019.08:**  One US Patent filed, No.10,386,481: "[Angle-of-Arrival-Based Gesture Recognition System and Method](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)".\
@@ -48,8 +47,7 @@ What is new:
 **2017.02:**  Successfully passed the written EE **PhD qualifying exam**.\
 **2016.08:**  Start my **PhD study** (with full finantial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST). Supervised by by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri) at [Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl).\
 **2016.07:**  Completed **Master’s study** in Computer Engineering at University of Chinese Academy of Sciences (UCAS).\
-**2015.06:**  Completed a **research internship** at KAUST working on indoor localization.\
-**2014.11:**  Accepted by **KAUST VSRP** (Visiting Student Research Program).\
+**2014.11:**  Accepted by **KAUST VSRP** (Visiting Student Research Program), working on indoor localization..\
 **2013.09:**  Recommended for **Direct Admission** without exams to [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and started my Master’s study in Computer Engineering.\
 **2013.07:**  Completed **Bachelor’s study** in Electrical Engineering from Beijing Forestry University with “**Excellent Graduate Student of Beijing**” award.
 
