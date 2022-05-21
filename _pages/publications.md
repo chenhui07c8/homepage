@@ -49,6 +49,10 @@ Journal Papers:
 
 Conference Papers:
 ======
+[**C8**] Y. Ge, H. Chen, F. Jiang, M. Zhu, H. Khosravi, S. Lindberg, H. Herbertsson, O. Eriksson, O. Brunnegard, B.E. Olsson, P. Hammarberg, F. Tufvesson, L. Svensson, and H. Wymeersch. Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings." In IEEE International Conference on Information Fusion (FUSION), 2022.
+\
+[**C7**] H. Wymeersch, A. Parssinen, T.E. Abrudan, A. Wolfgang, K. Haneda, M. Sarajlic, M.E. Leinonen, H. Chen, S. Lindberg, P. Kyosti, T. Svensson, and X. Yang. 6G Radio Requirements to Support Integrated Communication, Localization, and Sensing." In European Conference on Networks and Communications (EUCNC) \& 6G Summit. 2022.
+\
 [**C6**] H. Chen, , S. Aghdam, M.F. Keskin, Y. Wu, S. Lindberg, A. Wolfgang, U. Gustavsson, T. Eriksson, and H. Wymeersch. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
 \
 [**C5**] H. Chen, T. Ballal, and T.Y. Al-Naffouri. "Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration." European Signal Processing Conference (EUSIPCO, IEEE), 2021. (**Oral**). 
