@@ -20,7 +20,7 @@ Ongoing Works:
 \
 [**~J**] H. Chen, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology) 
 \[[preprint](https://arxiv.org/abs/2205.10807)]
-\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO)\]\
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO)\]
 \
 [**~J**] X. Liu, T. Ballal, H. Chen, and T.Y. Al-Naffouri. "Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination." (Submitted to IEEE Transactions on Instrumentation and Measurement)
 \[[preprint](https://arxiv.org/pdf/2112.14813.pdf)\]
