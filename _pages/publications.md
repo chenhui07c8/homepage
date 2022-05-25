@@ -18,7 +18,7 @@ Ongoing Works:
 \
 [**~C**] P. Zheng, T. Ballal, H. Chen, H. Wymeersch, and T.Y. Al-Naffouri. "Localization Coverage Analysis of THz Communication Systems with a 3D Array." (Submitted to IEEE GLOBECOM 2022)
 \
-[**~J**] H. Chen, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology)
+[**~J**] H. Chen, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology)\[[preprint](https://arxiv.org/abs/2205.10807)]
 \
 [**~J**] X. Liu, T. Ballal, H. Chen, and T.Y. Al-Naffouri. "Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination." (Submitted to IEEE Transactions on Instrumentation and Measurement)
 \[[preprint](https://arxiv.org/pdf/2112.14813.pdf)\]
