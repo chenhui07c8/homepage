@@ -18,7 +18,9 @@ Ongoing Works:
 \
 [**~C**] P. Zheng, T. Ballal, H. Chen, H. Wymeersch, and T.Y. Al-Naffouri. "Localization Coverage Analysis of THz Communication Systems with a 3D Array." (Submitted to IEEE GLOBECOM 2022)
 \
-[**~J**] H. Chen, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology)\[[preprint](https://arxiv.org/abs/2205.10807)]
+[**~J**] H. Chen, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology) 
+\[[preprint](https://arxiv.org/abs/2205.10807)]\
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO)\]\
 \
 [**~J**] X. Liu, T. Ballal, H. Chen, and T.Y. Al-Naffouri. "Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination." (Submitted to IEEE Transactions on Instrumentation and Measurement)
 \[[preprint](https://arxiv.org/pdf/2112.14813.pdf)\]
@@ -28,20 +30,23 @@ Journal Papers:
 ======
 [**J6**] H. Chen, H. Sarieddeen, T. Ballal, H. Wymeersch, M.S. Alouini, and T.Y. Al-Naffouri. "A Tutorial on Terahertz-Band Localization for 6G Communication Systems." accepted by IEEE Communications Surveys & Tutorials, 2022. 
 \[[preprint](https://arxiv.org/pdf/2110.08581.pdf)\]\
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/1-THz_Localization_Tutorial_v1)\]\
+
 [**J5**] S. Tarboush, H. Sarieddeen, H. Chen, M.H. Loukil, H. Jemma, M.S. Alouini, and T.Y. Al-Naffouri. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." IEEE Transactions on Vehicular Technology, 2021. 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9591285)\]
 \[[<span style="color:blue">code</span>](https://github.com/hasarieddeen/TeraMIMO)\]\
+
 [**J4**] H. Chen, T. Ballal, and T.Y. Al-Naffouri. "DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach." IEEE Wireless Communications Letters, 2021. 
 \[[paper](https://ieeexplore.ieee.org/document/9506874)\]
-\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms)\]
-\
+\[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms)\]\
+
 [**J3**] X. Ma, T. Ballal, H. Chen, O. Aldayel, and T.Y. Al-Naffouri. "A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming." IEEE Signal Processing Letters, 2021. 
-\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)\]
-\
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)\]\
+
 [**J2**] H. Chen, T. Ballal, A.H. Muqaibel, X. Zhang, and T.Y. Al-Naffouri. "Air-writing via Receiver Array-based Ultrasonic Source Localization." IEEE Transactions on Instrumentation and Measurement, 2020. 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]
-\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]
-\
+\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]\
+
 [**J1**] H. Chen, T. Ballal, N. Saeed, M.S. Alouini, and T.Y. Al-Naffouri. "A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters, 2020. 
 \[[paper](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)\]
 \[[material](https://www.researchgate.net/publication/340460207_A_Lower_Bound_for_Joint_TDOA-PDOA_Localization)\]
