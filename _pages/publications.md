@@ -49,7 +49,7 @@ Journal Papers:
 \
 [**J1**] H. Chen, T. Ballal, N. Saeed, M.S. Alouini, and T.Y. Al-Naffouri. "A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters, 2020. 
 \[[paper](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)\]
-\[[material](https://www.researchgate.net/publication/340460207_A_Lower_Bound_for_Joint_TDOA-PDOA_Localization)\]
+\[[<span style="color:orange">material</span>](https://www.researchgate.net/publication/340460207_A_Lower_Bound_for_Joint_TDOA-PDOA_Localization)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Localization-algorithms/tree/master/TDOA-PDOA%20Localization)\]
 
 Conference Papers:
@@ -73,12 +73,12 @@ Conference Papers:
 \
 [**C2**] H. Chen, T. Ballal, and T.Y. Al-Naffouri. "Fast Phase-Difference-Based DOA Estimation Using Random Ferns." IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018. (Poster). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)\]
-\[[poster](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2018%20GlobalSIP%20poster.pdf)\]
+\[[<span style="color:orange">poster</span>](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2018%20GlobalSIP%20poster.pdf)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/2%20AOA%20Random%20Ferns)\]
 \
 [**C1**] H. Chen, T. Ballal, M. Saad and T.Y. Al-Naffouri. "Angle-of-arrival-based Gesture Recognition Using Ultrasonic Multi-frequency Signals." European Signal Processing Conference (EUSIPCO, IEEE), 2017. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8081160)\]
-\[[material](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2017%20Eusipco%20oral%20ppt.pdf)\]
+\[[<span style="color:orange">material</span>](https://github.com/chenhui07c8/Air-writing/blob/master/Related%20Materials/2017%20Eusipco%20oral%20ppt.pdf)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms/tree/master/1%20AOA%20Search)\]
 
 
