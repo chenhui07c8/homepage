@@ -42,16 +42,16 @@ Journal Papers:
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]
 \[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]
 \
-[**J1**] H. Chen, T. Ballal, N. Saeed, M.S. Alouini, and T.Y. Al-Naffouri. "**A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters, 2020. 
+[**J1**] H. Chen, T. Ballal, N. Saeed, M.S. Alouini, and T.Y. Al-Naffouri. "A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters, 2020. 
 \[[paper](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)\]
 \[[material](https://www.researchgate.net/publication/340460207_A_Lower_Bound_for_Joint_TDOA-PDOA_Localization)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Localization-algorithms/tree/master/TDOA-PDOA%20Localization)\]
 
 Conference Papers:
 ======
-[**C8**] Y. Ge, H. Chen, F. Jiang, M. Zhu, H. Khosravi, S. Lindberg, H. Herbertsson, O. Eriksson, O. Brunnegard, B.E. Olsson, P. Hammarberg, F. Tufvesson, L. Svensson, and H. Wymeersch. Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings." In IEEE International Conference on Information Fusion (FUSION), 2022.
+[**C8**] Y. Ge, H. Chen, F. Jiang, M. Zhu, H. Khosravi, S. Lindberg, H. Herbertsson, O. Eriksson, O. Brunnegard, B.E. Olsson, P. Hammarberg, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings." In IEEE International Conference on Information Fusion (FUSION), 2022.
 \
-[**C7**] H. Wymeersch, A. Parssinen, T.E. Abrudan, A. Wolfgang, K. Haneda, M. Sarajlic, M.E. Leinonen, H. Chen, S. Lindberg, P. Kyosti, T. Svensson, and X. Yang. 6G Radio Requirements to Support Integrated Communication, Localization, and Sensing." In European Conference on Networks and Communications (EUCNC) \& 6G Summit. 2022.
+[**C7**] H. Wymeersch, A. Parssinen, T.E. Abrudan, A. Wolfgang, K. Haneda, M. Sarajlic, M.E. Leinonen, H. Chen, S. Lindberg, P. Kyosti, T. Svensson, and X. Yang. "6G Radio Requirements to Support Integrated Communication, Localization, and Sensing." In European Conference on Networks and Communications (EUCNC) & 6G Summit. 2022.
 \
 [**C6**] H. Chen, , S. Aghdam, M.F. Keskin, Y. Wu, S. Lindberg, A. Wolfgang, U. Gustavsson, T. Eriksson, and H. Wymeersch. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
 \
