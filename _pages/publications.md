@@ -19,7 +19,7 @@ Ongoing Works:
 [**~C**] P. Zheng, T. Ballal, H. Chen, H. Wymeersch, and T.Y. Al-Naffouri. "Localization Coverage Analysis of THz Communication Systems with a 3D Array." (Submitted to IEEE GLOBECOM 2022)
 \
 [**~J**] H. Chen, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." (Submitted to IEEE Transactions on Vehicular Technology) 
-\[[preprint](https://arxiv.org/abs/2205.10807)]\
+\[[preprint](https://arxiv.org/abs/2205.10807)]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO)\]\
 \
 [**~J**] X. Liu, T. Ballal, H. Chen, and T.Y. Al-Naffouri. "Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination." (Submitted to IEEE Transactions on Instrumentation and Measurement)
@@ -29,7 +29,7 @@ Ongoing Works:
 Journal Papers:
 ======
 [**J6**] H. Chen, H. Sarieddeen, T. Ballal, H. Wymeersch, M.S. Alouini, and T.Y. Al-Naffouri. "A Tutorial on Terahertz-Band Localization for 6G Communication Systems." accepted by IEEE Communications Surveys & Tutorials, 2022. 
-\[[preprint](https://arxiv.org/pdf/2110.08581.pdf)\]\
+\[[preprint](https://arxiv.org/pdf/2110.08581.pdf)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/1-THz_Localization_Tutorial_v1)\]\
 
 [**J5**] S. Tarboush, H. Sarieddeen, H. Chen, M.H. Loukil, H. Jemma, M.S. Alouini, and T.Y. Al-Naffouri. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." IEEE Transactions on Vehicular Technology, 2021. 
