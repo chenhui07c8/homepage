@@ -45,7 +45,7 @@ Journal Papers:
 \
 [**J2**] H. Chen, T. Ballal, A.H. Muqaibel, X. Zhang, and T.Y. Al-Naffouri. "Air-writing via Receiver Array-based Ultrasonic Source Localization." IEEE Transactions on Instrumentation and Measurement, 2020. 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]
-\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]
+\[[<span style="color:orange">video</span>](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]
 \
 [**J1**] H. Chen, T. Ballal, N. Saeed, M.S. Alouini, and T.Y. Al-Naffouri. "A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization." IEEE Wireless Communications Letters, 2020. 
 \[[paper](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)\]
