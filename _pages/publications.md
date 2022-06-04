@@ -35,10 +35,12 @@ Journal Papers:
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/1-THz_Localization_Tutorial_v1)\]
 \
 [**J5**] S. Tarboush, H. Sarieddeen, H. Chen, M.H. Loukil, H. Jemma, M.S. Alouini, and T.Y. Al-Naffouri. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." IEEE Transactions on Vehicular Technology, 2021. 
+\[[preprint](https://arxiv.org/abs/2104.11054)\]
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9591285)\]
 \[[<span style="color:blue">code</span>](https://github.com/hasarieddeen/TeraMIMO)\]
 \
 [**J4**] H. Chen, T. Ballal, and T.Y. Al-Naffouri. "DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach." IEEE Wireless Communications Letters, 2021. 
+\[[preprint](https://arxiv.org/abs/2102.03650)\]
 \[[paper](https://ieeexplore.ieee.org/document/9506874)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/DOA-AOA-algorithms)\]
 \
@@ -59,8 +61,10 @@ Conference Papers:
 [**C8**] Y. Ge, H. Chen, F. Jiang, M. Zhu, H. Khosravi, S. Lindberg, H. Herbertsson, O. Eriksson, O. Brunnegard, B.E. Olsson, P. Hammarberg, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings." In IEEE International Conference on Information Fusion (FUSION), 2022.
 \
 [**C7**] H. Wymeersch, A. Parssinen, T.E. Abrudan, A. Wolfgang, K. Haneda, M. Sarajlic, M.E. Leinonen, H. Chen, S. Lindberg, P. Kyosti, T. Svensson, and X. Yang. "6G Radio Requirements to Support Integrated Communication, Localization, and Sensing." In European Conference on Networks and Communications (EUCNC) & 6G Summit. 2022.
+\[[preprint](https://arxiv.org/abs/2205.10783)\]
 \
 [**C6**] H. Chen, , S. Aghdam, M.F. Keskin, Y. Wu, S. Lindberg, A. Wolfgang, U. Gustavsson, T. Eriksson, and H. Wymeersch. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
+\[[preprint](https://arxiv.org/abs/2204.12788)\]
 \
 [**C5**] H. Chen, T. Ballal, and T.Y. Al-Naffouri. "Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration." European Signal Processing Conference (EUSIPCO, IEEE), 2021. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)\]
