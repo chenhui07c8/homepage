@@ -11,8 +11,10 @@ author_profile: false
 Ongoing Works:
 ======
 [**~C**] H. Chen, A. Elzanaty, R. Ghazalian, M.F. Keskin, R. Jantti, and H. Wymeersch. "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective." (Submitted to IEEE GLOBECOM 2022)
+\[[preprint](https://arxiv.org/abs/2205.15417)\]
 \
 [**~C**] H. Chen, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler-Enabled Single-Antenna Localization and Mapping without Synchronization." (Submitted to IEEE GLOBECOM 2022)
+\[[preprint](https://arxiv.org/abs/2205.15427)\]
 \
 [**~C**] Y. Lu, H. Chen, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." (Submitted to IEEE GLOBECOM 2022)
 \
