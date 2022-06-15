@@ -62,6 +62,7 @@ Conference Papers:
 \
 [**C7**] H. Wymeersch, A. Parssinen, T.E. Abrudan, A. Wolfgang, K. Haneda, M. Sarajlic, M.E. Leinonen, H. Chen, S. Lindberg, P. Kyosti, T. Svensson, and X. Yang. "6G Radio Requirements to Support Integrated Communication, Localization, and Sensing." In European Conference on Networks and Communications (EUCNC) & 6G Summit. 2022.
 \[[preprint](https://arxiv.org/abs/2205.10783)\]
+\[[<span style="color:orange">video</span>](https://www.youtube.com/watch?v=sAbK3_7PS2g)\]
 \
 [**C6**] H. Chen, , S. Aghdam, M.F. Keskin, Y. Wu, S. Lindberg, A. Wolfgang, U. Gustavsson, T. Eriksson, and H. Wymeersch. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
 \[[preprint](https://arxiv.org/abs/2204.12788)\]
