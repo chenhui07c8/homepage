@@ -93,8 +93,7 @@ Conference Papers:
 
 Patents:
 ======
-[**P3**] Hui Chen, Tarig Ahmed, Tareq Al-Naffouri. “Ultrasound based Air-writing System and Method.” US Patent No. 16,969,037, filed 4 Feb 2021. \[[patent](https://patentimages.storage.googleapis.com/83/11/f1/426dea83615411/US20210033693A1.pdf)\]
+[**P2**] Hui Chen, Tarig Ahmed, Tareq Al-Naffouri. “Ultrasound based Air-writing System and Method.” US Patent No. 16,969,037, filed 4 Feb 2021. \[[patent](https://patentimages.storage.googleapis.com/83/11/f1/426dea83615411/US20210033693A1.pdf)\]
 \
-[**P2**] Hui Chen, Tarig Ahmed, Mohamed Saadeldin, Tareq Al-Naffouri. “Angle-of-arrival-based Gesture Recognition System and Method.” US Patent No. 10,386,481, issued 20 Aug 2019. \[[patent](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)\]
-\
-[**P1**] Zheng Yili, Yan Lei, Li Ning, Chen Hui, Guo Jiao, Lei Yidan. "E-communication terminal for remote emotion communication among relatives and friends”, (CN. Patent No. 102968078A, 2013-03-13).
+[**P1**] Hui Chen, Tarig Ahmed, Mohamed Saadeldin, Tareq Al-Naffouri. “Angle-of-arrival-based Gesture Recognition System and Method.” US Patent No. 10,386,481, issued 20 Aug 2019. \[[patent](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)\]
+
