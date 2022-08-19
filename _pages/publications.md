@@ -10,15 +10,7 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**~C**] **H. Chen**, A. Elzanaty, R. Ghazalian, M.F. Keskin, R. Jantti, and H. Wymeersch. "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective." (Submitted to IEEE GLOBECOM 2022)
-\[[preprint](https://arxiv.org/abs/2205.15417)\]
-\
-[**~C**] **H. Chen**, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler-Enabled Single-Antenna Localization and Mapping without Synchronization." (Submitted to IEEE GLOBECOM 2022)
-\[[preprint](https://arxiv.org/abs/2205.15427)\]
-\
-[**~C**] Y. Lu, **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." (Submitted to IEEE GLOBECOM 2022)
-\
-[**~C**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Localization Coverage Analysis of THz Communication Systems with a 3D Array." (Submitted to IEEE GLOBECOM 2022)
+[**~C**] Y. Lu, **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." (Submitted to VTC 2022)
 \
 [**~J**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." (Submitted to IEEE Vehicular Technology Magazine)
 
@@ -60,9 +52,21 @@ Journal Papers:
 
 Conference Papers:
 ======
-[**C8**] Y. Ge, **H. Chen**, F. Jiang, M. Zhu, H. Khosravi, S. Lindberg, H. Herbertsson, O. Eriksson, O. Brunnegard, B.E. Olsson, P. Hammarberg, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings." In IEEE International Conference on Information Fusion (FUSION), 2022.
+[**C13**] **H. Chen**, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler-Enabled Single-Antenna Localization and Mapping without Synchronization." IEEE Global Communications Conference (GLOBECOM), 2022.
+\[[preprint](https://arxiv.org/abs/2205.15427)\]
 \
-[**C7**] H. Wymeersch, A. Parssinen, T.E. Abrudan, A. Wolfgang, K. Haneda, M. Sarajlic, M.E. Leinonen, M.F. Keskin, **H. Chen**, S. Lindberg, P. Kyosti, T. Svensson, and X. Yang. "6G Radio Requirements to Support Integrated Communication, Localization, and Sensing." In European Conference on Networks and Communications (EUCNC) & 6G Summit. 2022.
+[**C12**] **H. Chen**, A. Elzanaty, R. Ghazalian, M.F. Keskin, R. Jantti, and H. Wymeersch. "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective." IEEE Global Communications Conference (GLOBECOM), 2022.
+\[[preprint](https://arxiv.org/abs/2205.15417)\]
+\
+[**C11**] Y. Ge, O. Kaltiokallio, **H. Chen**, F. Jiang, J. Talvitie, M. Valkama, L. Svensson, and H. Wymeersch. "Exploiting Doppler in Bistatic mmWave Radio SLAM." IEEE Global Communications Conference (GLOBECOM), 2022.
+\
+[**C10**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Localization Coverage Analysis of THz Communication Systems with a 3D Array." IEEE Global Communications Conference (GLOBECOM), 2022.
+\
+[**C9**] R. Ghazalian, K. Keikhorsravi, **H. Chen**, H. Wymeersch, and R. Jantti. "Bi-Static Sensing for Near-Field RIS Localization." IEEE Global Communications Conference (GLOBECOM), 2022.
+\
+[**C8**] Y. Ge, **H. Chen**, F. Jiang, M. Zhu, H. Khosravi, S. Lindberg, H. Herbertsson, O. Eriksson, O. Brunnegard, B.E. Olsson, P. Hammarberg, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings." IEEE International Conference on Information Fusion (FUSION), 2022.
+\
+[**C7**] H. Wymeersch, A. Parssinen, T.E. Abrudan, A. Wolfgang, K. Haneda, M. Sarajlic, M.E. Leinonen, M.F. Keskin, **H. Chen**, S. Lindberg, P. Kyosti, T. Svensson, and X. Yang. "6G Radio Requirements to Support Integrated Communication, Localization, and Sensing." European Conference on Networks and Communications (EUCNC) & 6G Summit. 2022.
 \[[preprint](https://arxiv.org/abs/2205.10783)\]
 \[[<span style="color:orange">video</span>](https://www.youtube.com/watch?v=sAbK3_7PS2g)\]
 \
