@@ -14,7 +14,7 @@ Hui Chen is currently a postdoctoral researcher at [Chalmers University of Techn
 
 What is new:
 =====
-**2022.08:**  5 papers are accepted by **IEEE GLOBECOM 2022**."\
+**2022.08:**  5 papers are accepted by **IEEE GLOBECOM 2022**.\
 **2022.07:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833303)."\
 **2022.07:**  Our work is accepted by **IEEE Transactions on Instrumentation & Measurement**: "[Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837939)."\
 **2022.05:**  Our work is accepted by **IEEE FUSION 2022**: "[Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841230)."\
