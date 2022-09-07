@@ -10,8 +10,6 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**~C**] Y. Lu, **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." (Submitted to VTC 2022)
-\
 [**~J**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." (Submitted to IEEE Vehicular Technology Magazine)
 
 
@@ -52,6 +50,8 @@ Journal Papers:
 
 Conference Papers:
 ======
+[**C14**] Y. Lu, **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." IEEE Vehicular Technology Conference-Fall, 2022.
+\
 [**C13**] **H. Chen**, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler-Enabled Single-Antenna Localization and Mapping without Synchronization." IEEE Global Communications Conference (GLOBECOM), 2022.
 \[[preprint](https://arxiv.org/abs/2205.15427)\]
 \
