@@ -24,6 +24,7 @@ author_profile: false
 -->
 
 
+
 ## Terahertz Signal Localization
 
 <img align="right" width="200" height="125" src="/images/fig_thz.png">
@@ -71,13 +72,6 @@ Direction of arrival (DOA) estimation is an important signal processing topic wi
 ---
 
 
-## KAUST Acoustic Positioning System
-
-<img align="right" width="200" height="125" src="/images/1_indoor_locating.png">
-
-Coming soon...
-
----
 
 
 
