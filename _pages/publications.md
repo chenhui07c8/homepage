@@ -15,7 +15,8 @@ Ongoing Works:
 [**~J**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." (Submitted to IEEE Transactions on Wireless Communications)
 \
 [**~J**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." (Submitted to IEEE Vehicular Technology Magazine)
-
+\
+[**~C**] P. Zheng, **H. Chen**, T. Ballal, H. Wymeersch, T. Y. Al-Naffouri. "Misspecified Cram\'er-Rao Bound of RIS-Aided Localization Under Geometry Mismatch." (Submitted to IEEE ICASSP 2023)
 
 Journal Papers:
 ======
