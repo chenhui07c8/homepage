@@ -10,6 +10,10 @@ author_profile: false
 
 Ongoing Works:
 ======
+[**~J**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." (Submitted to IEEE Transactions on Vehicular Technology)
+\
+[**~J**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." (Submitted to IEEE Transactions on Wireless Communications)
+\
 [**~J**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." (Submitted to IEEE Vehicular Technology Magazine)
 
 
