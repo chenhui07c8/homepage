@@ -14,7 +14,7 @@ Hui Chen is currently a postdoctoral researcher at [Chalmers University of Techn
 
 What is new:
 =====
-**2022.11:**  We have written a non-technical article available in **Nature News & Views**: "[Phone signals can help you find your way in cities even without GPS](https://www.nature.com/articles/d41586-022-03696-3)".\
+**2022.11:**  A non-technical article is available in **Nature News & Views**: "[Phone signals can help you find your way in cities even without GPS](https://www.nature.com/articles/d41586-022-03696-3)".\
 **2022.11:**  Our work is accepted by **IEEE Vehicular Technology Magazine**: "[Positioning and sensing in 6G: Gaps, Challenges and Opportunities](https://arxiv.org/pdf/2211.01183.pdf)".\
 **2022.10:**  **Hexa-X Deliverable D3.2** is available: "[Initial models and measurements for localisation and sensing](https://hexa-x.eu/wp-content/uploads/2022/10/Hexa-X_D3.2_v1.0.pdf)."\
 **2022.08:**  Our work is accepted by **IEEE VTC-Fall 2022 (workshop)**.\
