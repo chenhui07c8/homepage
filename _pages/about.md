@@ -14,6 +14,7 @@ Hui Chen is currently a postdoctoral researcher at [Chalmers University of Techn
 
 What is new:
 =====
+**2023.02:**  Our work is accepted by **IEEE ICASSP 2023**: "Misspecified Cramer-Rao Bound of RIS-aided Localization under Geometry Mismatch".\
 **2023.01:**  Our work is accepted by **IEEE ICC 2023**: "RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers".\
 **2022.11:**  A non-technical article is published in **Nature News & Views**: "[Phone signals can help you find your way in cities even without GPS](https://www.nature.com/articles/d41586-022-03696-3)".\
 **2022.11:**  Our work is accepted by **IEEE Vehicular Technology Magazine**: "[Positioning and Sensing in 6G: Gaps, Challenges and Opportunities](https://arxiv.org/pdf/2211.01183.pdf)".\
