@@ -31,11 +31,11 @@ Ongoing Works:
 \
 [**\*J12**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." Submitted to IEEE Transactions on Wireless Communications (Under Review), Sep. 2022.
 \[[preprint](https://repository.kaust.edu.sa/handle/10754/685359)\]
-\
+
 
 Journal Papers:
 ======
-[**J11**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
+<u>[**J11**]</u> **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
 \[[preprint](https://arxiv.org/pdf/2301.03535.pdf)\]
 \
 [**J10**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2023.
