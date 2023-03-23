@@ -14,14 +14,14 @@ A full list of ongoing works (as well as reports and demos) can be found in my [
 
 Journal Papers:
 ======
-[**J11**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and~Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
-\[[preprint](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2301.03535.pdf)\]
+[**J11**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
+\[[preprint](https://arxiv.org/pdf/2301.03535.pdf)\]
 \
 [**J10**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2023.
 \[[preprint](https://arxiv.org/abs/2211.01183)\]
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9976205)\]
 \
-[**J9**] **H. Chen**, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." Nature News & Views, 2022.
+[**J9**] **H. Chen**, and H. Wymeersch. "Phone signals can help you find your way in cities even without GPS." Nature News & Views, 2022.
 \[[paper](https://www.nature.com/articles/d41586-022-03696-3)\]
 \
 [**J8**] **H. Chen**, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." IEEE Transactions on Vehicular Technology, 2022.
