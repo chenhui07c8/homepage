@@ -28,7 +28,7 @@ author_profile: false
 <img align="right" width="320" height="200" src="/images/RIS_SL.png">
 
 Reconfigurable intelligent surfaces (RISs) constitute a promising emerging technology for extending coverage and dynamically programming signal propagation with almost zero-energy consumption. This technology can support or even enable wireless communications, as well as localization and sensing tasks in various scenarios. The research works on this topic include:
-- RIS-enabled sidelink positioning (localize all the UEs without BSs involved) <span style="color:blue">[J11]</span>: multiple RIS <span style="color:blue">[\*J16]</span> or cooperative strategy [\*J18]
+- RIS-enabled sidelink positioning (localize all the UEs without BSs involved) <span style="color:blue">[J11]</span>: single sidelink with multiple RISs <span style="color:blue">[\*J16]</span>, single RIS with cooperative UEs <span style="color:blue">[\*J18]</span>
 - RIS calibration: joint RIS calibration and UE localization using passive RIS <span style="color:blue">[C14]</span>, <span style="color:blue">[\*J19]</span>, or HRIS <span style="color:blue">[\*J13]</span>
 - RIS Localization: multi-static sensing of a RIS target <span style="color:blue">[C15]</span>
 - RIS-aided monostatic sensing: sensing and object detection with double bounce multipath <span style="color:blue">[C16]</span>, access-point-free SLAM <span style="color:blue">[\*J14]</span>
