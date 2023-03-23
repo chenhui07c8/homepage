@@ -55,4 +55,4 @@ What is new:
 **2017.08:**  TA in graduate course EE242 Digital Communication and Coding (2017-2018 Fall).\
 **2017.04:**  Obtained the **4th place** in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).\
 **2017.02:**  Successfully passed the written EE **PhD qualifying exam**.\
-**2016.08:**  Started my **PhD study** (with full finantial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST). Supervised by by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri) at [Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl).
+**2016.08:**  Started my **PhD study** (with full finantial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST).
