@@ -10,7 +10,7 @@ author_profile: false
 
 Ongoing Works:
 ======
-A full list of ongoing work can be found in my [[<span style="color:blue">CV</span>](https://chenhui07c8.github.io/cv/)].
+A full list of ongoing works (as well as reports and demos) can be found in my [[<span style="color:blue">CV</span>](https://chenhui07c8.github.io/cv/)].
 
 Journal Papers:
 ======
