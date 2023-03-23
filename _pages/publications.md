@@ -35,10 +35,10 @@ Ongoing Works:
 
 Journal Papers:
 ======
-<u>[J11]</u> **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
+[**J11**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
 \[[preprint](https://arxiv.org/pdf/2301.03535.pdf)\]
 \
-**[J10]** A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2023.
+[**J10**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2023.
 \[[preprint](https://arxiv.org/abs/2211.01183)\]
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9976205)\]
 \
