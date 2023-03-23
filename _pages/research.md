@@ -25,7 +25,7 @@ author_profile: false
 
 ## RIS-Aided Localization and Sensing
 
-<img align="right" width="200" height="125" src="/images/RIS_SL.png">
+<img align="right" width="240" height="150" src="/images/RIS_SL.png">
 
 Reflective reconfigurable intelligent surfaces (RISs) constitute a promising emerging technology for extending coverage and dynamically programming signal propagation with almost zero-energy consumption. This technology can support or even enable wireless communications, as well as localization and sensing tasks in various scenarios. The research works on this topic include:
 - Sidelink positioning (localize all the UEs without BSs involved) with multiple RIS [\*J16] or cooperative strategy [\*J18]
@@ -39,42 +39,32 @@ Reflective reconfigurable intelligent surfaces (RISs) constitute a promising eme
 
 ## MmWave/Terahertz Signal Localization
 
-<img align="right" width="200" height="125" src="/images/fig_thz.png">
+<img align="right" width="240" height="150" src="/images/fig_thz.png">
 
-Terahertz (THz) communication is expected as an enabler for future sixth-generation (6G) communication systems. Instead of being a byproduct of the communication systems, localization in 6G is indispensable for location-aware communications. In this project, we plan to study the three components in THz signal-based position and orientation estimation; namely, initial access, aligned localization, and cooperative localization. We will also discuss the objectives and constraints of the localization system, and the optimization strategies at both the system-level and beam-level. 
-
----
-
-
-
-
-## Joint TDOA/PDOA Localization Using Particle Swarm Optimization
-
-<img align="right" width="200" height="125" src="/images/5_tdoa_pdoa.png">
-
-Time-difference-of-arrival (TDOA) based localization has the main advantage that it does not require synchronization between the transmitting and the receiving sides. Phase-difference-of-arrival (PDOA) provides additional information that can be leveraged to enhance localization performance. In this work, we propose a novel approach that incorporates both TDOA and PDOA to achieve improved position estimation. \
-**Reference:** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9062333)\]
-
----
-## Ultrasonic Gesture Recognition/Air-writing System
-
-<img align="right" width="200" height="125" src="/images/airwriting.png">
-
-Air-writing systems have recently been proposed as tools for human-machine interaction where instructions can be represented using letters or digits written in the air. Different technologies have been used to realize air-writing systems. In this project, we propose an air-writing system using acoustic waves. The proposed system consists of two components: a motion tracking component, and a text recognition component.\
-**Reference:** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)\]\[[video](https://www.youtube.com/watch?v=XRi2iezsG4Q)\]
-
-
----
-## Direction-of-Arrival (DOA) Estimation Algorithms
-
-<img align="right" width="200" height="125" src="/images/2_DOA.png">
-
-Direction of arrival (DOA) estimation is an important signal processing topic with applications covering areas such as wireless sensor networks, communications, indoor target tracking, and so on. We designed several DOA estimation algorithms to meet the needs of different scenarios.\
-**Reference:** \[[paper1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8646676)\]\[[paper2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8902804&tag=1)\]
+MmWave/Terahertz signals are expected in the fifth/sixth generation (5G/6G) communication systems. Benefiting from the large bandwidth and array size, improved radio localization performance can assist in communication and location-based services. The research works on this topic include:
+- THz band localization tutorial [J6] with new signal features [J5]
+- Localization under model mismatch: hardware impairment [C6], [\*J17], near-field and beam squint effect [C12], geometry mismatch [C17]
+- Localization and sensing under mobility [C11], [C13]
+- Evaluation of experimental data from a 5G base station [C8], [\*J15]
+- Coverage analysis [C10], [\*J12]
+- Requirements [C7] and visions for positioning and sensing in 6G [J10]
 
 
 ---
 
+
+
+
+## Target Positioning and Location‑based Applications
+
+<img align="right" width="240" height="150" src="/images/airwriting.png">
+
+-	DOA estimation algorithms [C2], [C4], [C5], [J4]
+-	Ultrasound-based gesture recognition/air-writing system [C1], [C3], [J2]
+-	Joint time-/phase-difference-of-arrival localization [J1]
+-	Maximum-likelihood TDOA localization using difference-of-convex programming [J3]
+-	Constrained wrapped least squares for GNSS [J7]
+-	Antenna selection via DOA threshold region approximation [J8]
 
 
 
