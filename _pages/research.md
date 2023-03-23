@@ -41,7 +41,7 @@ Reconfigurable intelligent surfaces (RISs) constitute a promising emerging techn
 
 <img align="right" width="320" height="200" src="/images/fig_thz.png">
 
-MmWave/Terahertz signals are expected in the fifth/sixth generation (5G/6G) communication systems. Benefiting from the large bandwidth and array size, improved radio localization performance can assist in communication and location-based services. The research works on this topic include:
+MmWave and Terahertz signals are main enablers in the fifth/sixth generation (5G/6G) communication systems. Benefiting from the large bandwidth and array size, improved radio localization performance can assist in communication and location-based services. The research works on this topic include:
 - THz band localization tutorial <span style="color:blue">[J6]</span> with new signal features <span style="color:blue">[J5]</span>
 - Localization under model mismatch: hardware impairment <span style="color:blue">[C6]</span>, <span style="color:blue">[\*J17]</span>, near-field and beam squint effect <span style="color:blue">[C12]</span>, geometry mismatch <span style="color:blue">[C17]</span>
 - Localization and sensing under mobility <span style="color:blue">[C11]</span>, <span style="color:blue">[C13]</span>
