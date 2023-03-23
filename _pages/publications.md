@@ -10,25 +10,32 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**~J**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." (Submitted to IEEE Transactions on Vehicular Technology)
-\
-[**~J**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." (Submitted to IEEE Transactions on Wireless Communications)
-\
-[**~C**] P. Zheng, **H. Chen**, T. Ballal, H. Wymeersch, T. Y. Al-Naffouri. "Misspecified Cram\'er-Rao Bound of RIS-Aided Localization Under Geometry Mismatch." (Submitted to IEEE ICASSP 2023)
+A full list of ongoing work can be found in my [[<span style="color:blue">CV</span>](https://chenhui07c8.github.io/cv/)].
 
 Journal Papers:
 ======
-[**J9**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2022.
+[**J11**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and~Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
+\[[preprint](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2301.03535.pdf)\]
+\
+[**J10**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2023.
+\[[preprint](https://arxiv.org/abs/2211.01183)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9976205)\]
+\
+[**J9**] **H. Chen**, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." Nature News & Views, 2022.
+\[[paper](https://www.nature.com/articles/d41586-022-03696-3)\]
 \
 [**J8**] **H. Chen**, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." IEEE Transactions on Vehicular Technology, 2022.
 \[[preprint](https://arxiv.org/abs/2205.10807)]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833303)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/2-Antenna_Selection_for_Switched_MIMO)\]
 \
 [**J7**] X. Liu, T. Ballal, **H. Chen**, and T.Y. Al-Naffouri. "Constrained Wrapped Least Squares: A Tool for High Accuracy GNSS Attitude Determination." IEEE Transactions on Instrumentation and Measurement, 2022.
 \[[preprint](https://arxiv.org/pdf/2112.14813.pdf)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837939)\]
 \
 [**J6**] **H. Chen**, H. Sarieddeen, T. Ballal, H. Wymeersch, M.S. Alouini, and T.Y. Al-Naffouri. "A Tutorial on Terahertz-Band Localization for 6G Communication Systems." IEEE Communications Surveys & Tutorials, 2022. 
 \[[preprint](https://arxiv.org/pdf/2110.08581.pdf)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782674)\]
 \[[<span style="color:blue">code</span>](https://github.com/chenhui07c8/Radio_Localization/tree/main/1-THz_Localization_Tutorial_v1)\]
 \
 [**J5**] S. Tarboush, H. Sarieddeen, **H. Chen**, M.H. Loukil, H. Jemma, M.S. Alouini, and T.Y. Al-Naffouri. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." IEEE Transactions on Vehicular Technology, 2021. 
@@ -55,7 +62,13 @@ Journal Papers:
 
 Conference Papers:
 ======
-[**C14**] Y. Lu, **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." IEEE Vehicular Technology Conference-Fall, 2022.
+[**C17**] P. Zheng, **H. Chen**, T. Ballal, H. Wymeersch, T. Y. Al-Naffouri. "Misspecified Cramer-Rao Bound of RIS-Aided Localization Under Geometry Mismatch." IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
+\
+[**C16**] H. Kim, A. Fascista, **H. Chen**, Y. Ge, G.C. Alexandropoulos, G. Seco-Granados, and H. Wymeersch. "RIS-Aided Monostatic Sensing and Object Detection with Single and Double Bounce Multipath." IEEE International Conference on Communications (ICC) Workshop, 2023.
+\
+[**C15**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers." IEEE International Conference on Communications (ICC), 2023.
+\
+[**C14**] Y. Lu, **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." IEEE Vehicular Technology Conference-Fall Workshop, 2022.
 \
 [**C13**] **H. Chen**, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler-Enabled Single-Antenna Localization and Mapping without Synchronization." IEEE Global Communications Conference (GLOBECOM), 2022.
 \[[preprint](https://arxiv.org/abs/2205.15427)\]
@@ -70,13 +83,16 @@ Conference Papers:
 [**C9**] R. Ghazalian, K. Keikhorsravi, **H. Chen**, H. Wymeersch, and R. Jantti. "Bi-Static Sensing for Near-Field RIS Localization." IEEE Global Communications Conference (GLOBECOM), 2022.
 \
 [**C8**] Y. Ge, **H. Chen**, F. Jiang, M. Zhu, H. Khosravi, S. Lindberg, H. Herbertsson, O. Eriksson, O. Brunnegard, B.E. Olsson, P. Hammarberg, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings." IEEE International Conference on Information Fusion (FUSION), 2022.
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841230)\]
 \
 [**C7**] H. Wymeersch, A. Parssinen, T.E. Abrudan, A. Wolfgang, K. Haneda, M. Sarajlic, M.E. Leinonen, M.F. Keskin, **H. Chen**, S. Lindberg, P. Kyosti, T. Svensson, and X. Yang. "6G Radio Requirements to Support Integrated Communication, Localization, and Sensing." European Conference on Networks and Communications (EUCNC) & 6G Summit. 2022.
 \[[preprint](https://arxiv.org/abs/2205.10783)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9815783)\]
 \[[<span style="color:orange">video</span>](https://www.youtube.com/watch?v=sAbK3_7PS2g)\]
 \
-[**C6**] **H. Chen**, , S. Aghdam, M.F. Keskin, Y. Wu, S. Lindberg, A. Wolfgang, U. Gustavsson, T. Eriksson, and H. Wymeersch. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) workshop, 2022.
+[**C6**] **H. Chen**, , S. Aghdam, M.F. Keskin, Y. Wu, S. Lindberg, A. Wolfgang, U. Gustavsson, T. Eriksson, and H. Wymeersch. "MCRB-based Performance Analysis of 6G Localization under Hardware Impairments." IEEE International Conference on Communications (ICC) Workshop, 2022.
 \[[preprint](https://arxiv.org/abs/2204.12788)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9814598)\]
 \
 [**C5**] **H. Chen**, T. Ballal, and T.Y. Al-Naffouri. "Phase-difference-based 3-D Source Localization Using a Compact Receiver Configuration." European Signal Processing Conference (EUSIPCO, IEEE), 2021. (**Oral**). 
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)\]
