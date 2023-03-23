@@ -14,7 +14,7 @@ Hui Chen is currently a postdoctoral researcher at [Chalmers University of Techn
 
 What is new:
 =====
-**2023.03:**  Our work is accepted by **IEEE Communications Magazine**: "RISs and~Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing".\
+**2023.03:**  Our work is accepted by **IEEE Communications Magazine**: "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing".\
 **2023.03:**  Our work is accepted by **IEEE ICASSP 2023**: "Misspecified Cramer-Rao Bound of RIS-aided Localization under Geometry Mismatch".\
 **2023.03:**  Our work is accepted by **IEEE ICC 2023 (workshop)**: "RIS‑Aided Monostatic Sensing and Object Detection with Single and Double Bounce Multipath".\
 **2023.01:**  Our work is accepted by **IEEE ICC 2023**: "RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers".\
