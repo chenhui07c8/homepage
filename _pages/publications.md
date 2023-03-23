@@ -63,24 +63,36 @@ Journal Papers:
 Conference Papers:
 ======
 [**C17**] P. Zheng, **H. Chen**, T. Ballal, H. Wymeersch, T. Y. Al-Naffouri. "Misspecified Cramer-Rao Bound of RIS-Aided Localization Under Geometry Mismatch." IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
+\[[preprint](https://arxiv.org/pdf/2211.06990.pdf)\]
 \
 [**C16**] H. Kim, A. Fascista, **H. Chen**, Y. Ge, G.C. Alexandropoulos, G. Seco-Granados, and H. Wymeersch. "RIS-Aided Monostatic Sensing and Object Detection with Single and Double Bounce Multipath." IEEE International Conference on Communications (ICC) Workshop, 2023.
+\[[preprint](https://arxiv.org/pdf/2212.07142.pdf)\]
 \
 [**C15**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers." IEEE International Conference on Communications (ICC), 2023.
 \
 [**C14**] Y. Lu, **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Joint RIS Calibration and Multi-User Positioning." IEEE Vehicular Technology Conference-Fall Workshop, 2022.
+\[[preprint](https://arxiv.org/pdf/2212.04258.pdf)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10012776)\]
 \
 [**C13**] **H. Chen**, F. Jiang, Y. Ge, H. Kim, and H. Wymeersch. "Doppler-Enabled Single-Antenna Localization and Mapping without Synchronization." IEEE Global Communications Conference (GLOBECOM), 2022.
 \[[preprint](https://arxiv.org/abs/2205.15427)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001351)\]
 \
 [**C12**] **H. Chen**, A. Elzanaty, R. Ghazalian, M.F. Keskin, R. Jantti, and H. Wymeersch. "Channel Model Mismatch Analysis for XL-MIMO Systems from a Localization Perspective." IEEE Global Communications Conference (GLOBECOM), 2022.
-\[[preprint](https://arxiv.org/abs/2205.15417)\]
+\[[preprint](https://arxiv.org/pdf/2205.15417.pdf)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10000613)\]
 \
 [**C11**] Y. Ge, O. Kaltiokallio, **H. Chen**, F. Jiang, J. Talvitie, M. Valkama, L. Svensson, and H. Wymeersch. "Exploiting Doppler in Bistatic mmWave Radio SLAM." IEEE Global Communications Conference (GLOBECOM), 2022.
+\[[preprint](arxiv.org/pdf/2208.10204.pdf)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001597)\]
 \
 [**C10**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Localization Coverage Analysis of THz Communication Systems with a 3D Array." IEEE Global Communications Conference (GLOBECOM), 2022.
+\[[preprint](https://arxiv.org/pdf/2206.13915.pdf)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10000653)\]
 \
 [**C9**] R. Ghazalian, K. Keikhorsravi, **H. Chen**, H. Wymeersch, and R. Jantti. "Bi-Static Sensing for Near-Field RIS Localization." IEEE Global Communications Conference (GLOBECOM), 2022.
+\[[preprint](https://arxiv.org/pdf/2206.13915.pdf)\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001209)\]
 \
 [**C8**] Y. Ge, **H. Chen**, F. Jiang, M. Zhu, H. Khosravi, S. Lindberg, H. Herbertsson, O. Eriksson, O. Brunnegard, B.E. Olsson, P. Hammarberg, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single Base Station 5G mmWave Positioning: Initial Findings." IEEE International Conference on Information Fusion (FUSION), 2022.
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841230)\]
