@@ -23,9 +23,21 @@ author_profile: false
 </p>
 -->
 
+## RIS-Aided Localization and Sensing
+
+<img align="right" width="200" height="125" src="/images/RIS_SL.png">
+
+Reflective reconfigurable intelligent surfaces (RISs) constitute a promising emerging technology for extending coverage and dynamically programming signal propagation with almost zero-energy consumption. This technology can support or even enable wireless communications, as well as localization and sensing tasks in various scenarios. The research works on this topic include:
+- Sidelink positioning (localize all the UEs without BSs involved) with multiple RIS [\*J16] or cooperative strategy [\*J18]
+- RIS calibration: joint RIS calibration and UE localization using passive RIS [C14], [\*J19], or HRIS [\*J13]
+- RIS Localization: multi-static sensing of a RIS target [C15]
+- RIS-aided monostatic sensing: sensing and object detection with double bounce multipath [C16], access-point-free SLAM [\*J14]
 
 
-## Terahertz Signal Localization
+---
+
+
+## MmWave/Terahertz Signal Localization
 
 <img align="right" width="200" height="125" src="/images/fig_thz.png">
 
@@ -34,15 +46,7 @@ Terahertz (THz) communication is expected as an enabler for future sixth-generat
 ---
 
 
-## Antenna Selection Algorithm for Switch-based MIMO System
 
-<img align="right" width="200" height="125" src="/images/6_MIMO.png">
-
-Direction-of-arrival (DOA) is important in asset tracking, navigation, and communications.
-Switch-based MIMO architecture is one of the promising solutions to reduce hardware cost.
-In this work, we want to improve DOA estimations by selecting appropriate antennas under different situations. Two DOA-based antenna selection algorithms, namely, a greedy algorithm and a neural network-based method, are proposed for the switch-based MIMO system using threshold region approximation.
-
----
 
 ## Joint TDOA/PDOA Localization Using Particle Swarm Optimization
 
