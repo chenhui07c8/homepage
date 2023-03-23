@@ -39,7 +39,7 @@ Reflective reconfigurable intelligent surfaces (RISs) constitute a promising eme
 
 ## MmWave/Terahertz Signal Localization
 
-<img align="right" width="240" height="150" src="/images/fig_thz.png">
+<img align="right" width="320" height="200" src="/images/fig_thz.png">
 
 MmWave/Terahertz signals are expected in the fifth/sixth generation (5G/6G) communication systems. Benefiting from the large bandwidth and array size, improved radio localization performance can assist in communication and location-based services. The research works on this topic include:
 - THz band localization tutorial <span style="color:red">[J6]</span> with new signal features <span style="color:red">[J5]</span>
@@ -57,7 +57,7 @@ MmWave/Terahertz signals are expected in the fifth/sixth generation (5G/6G) comm
 
 ## Target Positioning and Location‑based Applications
 
-<img align="right" width="240" height="150" src="/images/airwriting.png">
+<img align="right" width="320" height="200" src="/images/airwriting.png">
 
 -	DOA estimation algorithms <span style="color:red">[C2]</span>, <span style="color:red">[C4]</span>, <span style="color:red">[C5]</span>, <span style="color:red">[J4]</span>
 -	Ultrasound-based gesture recognition/air-writing system <span style="color:red">[C1]</span>, <span style="color:red">[C3]</span>, <span style="color:red">[J2]</span>
