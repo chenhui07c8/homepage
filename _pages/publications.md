@@ -17,10 +17,10 @@ Ongoing Works:
 [**\*J17**] **H. Chen**, M.F. Keskin, S. Aghdam, H. Kim, S. Lindberg, A. Wolfgang, T.E. Abrudan, T. Eriksson, and H. Wymeersch. "Modeling and Analysis of 5G/6G Localization under Hardware Impairments." Submitted to IEEE Transactions on Wireless Communication, Mar. 2023.
 \[[preprint](https://arxiv.org/pdf/2301.01042.pdf)\]
 \
-[**\*J16**] **H. Chen**, P. Zheng, M.F. Keskin, T.Y. Al-Naffouri and H. Wymeersch. "Multi-RIS-Enabled 3D Sidelink Positioning." Submitted to IEEE Journal of Selected Areas in Communications, Feb. 2023
+[**\*J16**] **H. Chen**, P. Zheng, M.F. Keskin, T.Y. Al-Naffouri and H. Wymeersch. "Multi-RIS-Enabled 3D Sidelink Positioning." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023
 \[[preprint](https://arxiv.org/pdf/2302.12459.pdf)\]
 \
-[**\*J15**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Journal of Selected Areas in Communications, Feb. 2023.
+[**\*J15**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023.
 \[[preprint](https://arxiv.org/pdf/2303.11995.pdf)\]
 \
 [**\*J14**] H. Kim, **H. Chen**, M.F. Keskin, Y. Ge, K. Keykhosravi,  G.C. Alexandropoulos, S. Kim, and H. Wymeersch. "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." Submitted to IEEE Transactions on Wireless Communications (Major Revision), Nov. 2022.
