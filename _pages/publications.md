@@ -10,9 +10,10 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**\*J19**] P. Zheng, **H. Chen**, T. Ballal, M. Valkama, H. Wymeersch and T.Y. Al-Naffouri. "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." In preparation for IEEE Transactions on Wireless Communications (draft ready).
+[**\*J19**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." In preparation for IEEE Transactions on Mobile Computinge (draft ready).
 \
-[**\*J18**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." In preparation for IEEE Transactions on Mobile Computinge (draft ready).
+[**\*J18**] P. Zheng, **H. Chen**, T. Ballal, M. Valkama, H. Wymeersch and T.Y. Al-Naffouri. "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." Submitted to IEEE Transactions on Wireless Communications, Apr. 2023.
+\[[preprint](https://arxiv.org/pdf/2304.00631.pdf)\]
 \
 [**\*J17**] **H. Chen**, M.F. Keskin, S. Aghdam, H. Kim, S. Lindberg, A. Wolfgang, T.E. Abrudan, T. Eriksson, and H. Wymeersch. "Modeling and Analysis of 5G/6G Localization under Hardware Impairments." Submitted to IEEE Transactions on Wireless Communication, Mar. 2023.
 \[[preprint](https://arxiv.org/pdf/2301.01042.pdf)\]
