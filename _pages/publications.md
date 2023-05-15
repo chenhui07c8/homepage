@@ -10,7 +10,7 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**\*J19**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." In preparation for IEEE Transactions on Mobile Computinge (draft ready).
+[**\*J19**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
 \
 [**\*J18**] P. Zheng, **H. Chen**, T. Ballal, M. Valkama, H. Wymeersch and T.Y. Al-Naffouri. "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." Submitted to IEEE Transactions on Wireless Communications, Apr. 2023.
 \[[preprint](https://arxiv.org/pdf/2304.00631.pdf)\]
@@ -152,7 +152,7 @@ Conference Papers:
 
 Patents:
 ======
-[**P2**] Hui Chen, Tarig Ahmed, Tareq Al-Naffouri. “Ultrasound based Air-writing System and Method.” US Patent No. 16,969,037, filed 4 Feb 2021. \[[patent](https://patentimages.storage.googleapis.com/83/11/f1/426dea83615411/US20210033693A1.pdf)\]
+[**P2**] Hui Chen, Tarig Ahmed, Tareq Al-Naffouri. “Ultrasound based Air-writing System and Method.” US Patent No. 11,630,518, issued 18 Apr 2023. \[[patent](https://patentimages.storage.googleapis.com/0d/a6/3f/b165381a06776e/US11630518.pdf)\]
 \
 [**P1**] Hui Chen, Tarig Ahmed, Mohamed Saadeldin, Tareq Al-Naffouri. “Angle-of-arrival-based Gesture Recognition System and Method.” US Patent No. 10,386,481, issued 20 Aug 2019. \[[patent](https://patentimages.storage.googleapis.com/29/ed/66/3c72c30f788e26/US10386481.pdf)\]
 
