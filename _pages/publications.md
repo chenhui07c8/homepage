@@ -10,41 +10,43 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**\*J19**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
+[**\*J18**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
 \
-[**\*J18**] P. Zheng, **H. Chen**, T. Ballal, M. Valkama, H. Wymeersch and T.Y. Al-Naffouri. "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." Submitted to IEEE Transactions on Wireless Communications, Apr. 2023.
+[**\*J17**] P. Zheng, **H. Chen**, T. Ballal, M. Valkama, H. Wymeersch and T.Y. Al-Naffouri. "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." Submitted to IEEE Transactions on Wireless Communications, Apr. 2023.
 \[[preprint](https://arxiv.org/pdf/2304.00631.pdf)\]
 \
-[**\*J17**] **H. Chen**, M.F. Keskin, S. Aghdam, H. Kim, S. Lindberg, A. Wolfgang, T.E. Abrudan, T. Eriksson, and H. Wymeersch. "Modeling and Analysis of 5G/6G Localization under Hardware Impairments." Submitted to IEEE Transactions on Wireless Communication, Mar. 2023.
+[**\*J16**] **H. Chen**, M.F. Keskin, S. Aghdam, H. Kim, S. Lindberg, A. Wolfgang, T.E. Abrudan, T. Eriksson, and H. Wymeersch. "Modeling and Analysis of 5G/6G Localization under Hardware Impairments." Submitted to IEEE Transactions on Wireless Communication, Mar. 2023.
 \[[preprint](https://arxiv.org/pdf/2301.01042.pdf)\]
 \
-[**\*J16**] **H. Chen**, P. Zheng, M.F. Keskin, T.Y. Al-Naffouri and H. Wymeersch. "Multi-RIS-Enabled 3D Sidelink Positioning." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023
+[**\*J15**] **H. Chen**, P. Zheng, M.F. Keskin, T.Y. Al-Naffouri and H. Wymeersch. "Multi-RIS-Enabled 3D Sidelink Positioning." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023
 \[[preprint](https://arxiv.org/pdf/2302.12459.pdf)\]
 \
-[**\*J15**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023.
+[**\*J14**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023.
 \[[preprint](https://arxiv.org/pdf/2303.11995.pdf)\]
 \
-[**\*J14**] H. Kim, **H. Chen**, M.F. Keskin, Y. Ge, K. Keykhosravi,  G.C. Alexandropoulos, S. Kim, and H. Wymeersch. "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." Submitted to IEEE Transactions on Wireless Communications (Major Revision), Nov. 2022.
+[**\*J13**] H. Kim, **H. Chen**, M.F. Keskin, Y. Ge, K. Keykhosravi,  G.C. Alexandropoulos, S. Kim, and H. Wymeersch. "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." Submitted to IEEE Transactions on Wireless Communications (Major Revision), Nov. 2022.
 \[[preprint](https://arxiv.org/pdf/2212.07141.pdf)\]
 \
-[**\*J13**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Vehicular Technology (Major Revision), Oct. 2022.
+[**\*J12**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Vehicular Technology (Major Revision), Oct. 2022.
 \[[preprint](https://arxiv.org/pdf/2210.10150.pdf)\]
 \
-[**\*J12**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." Submitted to IEEE Transactions on Wireless Communications (Under Review), Sep. 2022.
+[**\*J11**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." Submitted to IEEE Transactions on Wireless Communications (Under Review), Sep. 2022.
 \[[preprint](https://repository.kaust.edu.sa/handle/10754/685359)\]
 
+Articles:
+======
+[**A1**] **H. Chen**, and H. Wymeersch. "Phone signals can help you find your way in cities even without GPS." Nature News & Views, 2022.
+\[[paper](https://www.nature.com/articles/d41586-022-03696-3)\]
+\
 
 Journal Papers:
 ======
-[**J11**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
+[**J10**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
 \[[preprint](https://arxiv.org/pdf/2301.03535.pdf)\]
 \
-[**J10**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2023.
+[**J9**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2023.
 \[[preprint](https://arxiv.org/abs/2211.01183)\]
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9976205)\]
-\
-[**J9**] **H. Chen**, and H. Wymeersch. "Phone signals can help you find your way in cities even without GPS." Nature News & Views, 2022.
-\[[paper](https://www.nature.com/articles/d41586-022-03696-3)\]
 \
 [**J8**] **H. Chen**, T. Ballal, M. Eltayeb, and T.Y. Al-Naffouri. "Antenna Selection in Switch-Based MIMO Array via DOA Threshold Region Approximation." IEEE Transactions on Vehicular Technology, 2022.
 \[[preprint](https://arxiv.org/abs/2205.10807)]
