@@ -14,13 +14,15 @@ Hui Chen is currently a postdoctoral researcher at [Chalmers University of Techn
 
 What is new:
 =====
+**2023.08:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." \
+**2023.08:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." \
 **2023.05:**  Received **Ericsson Research Grant**, Ericsson, Sweden.\
 **2023.04:**  Received **Seal of Excellence**, Marie Curie Fellowship (MSCA-PF), European Commission.\
-**2023.04:**  One **US Patent** issued (after a long time): "Ultrasound Based Air-Writing System and Method".\
-**2023.03:**  Our work is accepted by **IEEE Communications Magazine**: "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing".\
-**2023.03:**  Our work is accepted by **IEEE ICASSP 2023**: "Misspecified Cramer-Rao Bound of RIS-aided Localization under Geometry Mismatch".\
-**2023.03:**  Our work is accepted by **IEEE ICC 2023 (workshop)**: "RIS‑Aided Monostatic Sensing and Object Detection with Single and Double Bounce Multipath".\
-**2023.01:**  Our work is accepted by **IEEE ICC 2023**: "RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers".\
+**2023.04:**  One **US Patent** issued (after a long time): "Ultrasound Based Air-Writing System and Method." \
+**2023.03:**  Our work is accepted by **IEEE Communications Magazine**: "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." \
+**2023.03:**  Our work is accepted by **IEEE ICASSP 2023**: "Misspecified Cramer-Rao Bound of RIS-aided Localization under Geometry Mismatch." \
+**2023.03:**  Our work is accepted by **IEEE ICC 2023 (workshop)**: "RIS‑Aided Monostatic Sensing and Object Detection with Single and Double Bounce Multipath." \
+**2023.01:**  Our work is accepted by **IEEE ICC 2023**: "RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers." \
 **2022.11:**  A short article is published in **Nature News & Views**: "[Phone signals can help you find your way in cities even without GPS](https://www.nature.com/articles/d41586-022-03696-3)".\
 **2022.11:**  Our work is accepted by **IEEE Vehicular Technology Magazine**: "[Positioning and Sensing in 6G: Gaps, Challenges and Opportunities](https://arxiv.org/pdf/2211.01183.pdf)".\
 **2022.10:**  **Hexa-X Deliverable D3.2** is available: "[Initial models and measurements for localisation and sensing](https://hexa-x.eu/wp-content/uploads/2022/10/Hexa-X_D3.2_v1.0.pdf)."\
