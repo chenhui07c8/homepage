@@ -24,13 +24,7 @@ Ongoing Works:
 [**\*J14**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023.
 \[[preprint](https://arxiv.org/pdf/2303.11995.pdf)\]
 \
-[**\*J13**] H. Kim, **H. Chen**, M.F. Keskin, Y. Ge, K. Keykhosravi,  G.C. Alexandropoulos, S. Kim, and H. Wymeersch. "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." Submitted to IEEE Transactions on Wireless Communications (Major Revision), Nov. 2022.
-\[[preprint](https://arxiv.org/pdf/2212.07141.pdf)\]
-\
-[**\*J12**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Vehicular Technology (Major Revision), Oct. 2022.
-\[[preprint](https://arxiv.org/pdf/2210.10150.pdf)\]
-\
-[**\*J11**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." Submitted to IEEE Transactions on Wireless Communications (Under Review), Sep. 2022.
+[**\*J13**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." Submitted to IEEE Transactions on Wireless Communications (Under Review), Sep. 2022.
 \[[preprint](https://repository.kaust.edu.sa/handle/10754/685359)\]
 
 Articles:
@@ -41,7 +35,13 @@ Articles:
 
 Journal Papers:
 ======
-[**J10**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Acceptted by IEEE Communications Magazine, 2023.
+[**J12**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." Accepted by IEEE Transactions on Vehicular Technology (Major Revision), 2023.
+\[[preprint](https://arxiv.org/pdf/2210.10150.pdf)\]
+\
+[**J11**] H. Kim, **H. Chen**, M.F. Keskin, Y. Ge, K. Keykhosravi,  G.C. Alexandropoulos, S. Kim, and H. Wymeersch. "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." Accepted by IEEE Transactions on Wireless Communications (Major Revision), 2023.
+\[[preprint](https://arxiv.org/pdf/2212.07141.pdf)\]
+\
+[**J10**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Accepted by IEEE Communications Magazine, 2023.
 \[[preprint](https://arxiv.org/pdf/2301.03535.pdf)\]
 \
 [**J9**] A. Behravan, V. Yajnanarayana, M.F. Keskin, **H. Chen**, D. Shrestha, T.E. Abrudan, T. Svensson, K. Schindhelm, A. Wolfgang, S. Lindberg, and H. Wymeersch. "Positioning and sensing in 6G: Gaps, Challenges and Opportunities." IEEE Vehicular Technology Magazine, 2023.
