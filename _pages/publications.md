@@ -35,10 +35,10 @@ Articles:
 
 Journal Papers:
 ======
-[**J12**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." Accepted by IEEE Transactions on Vehicular Technology (Major Revision), 2023.
+[**J12**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." Accepted by IEEE Transactions on Vehicular Technology, 2023.
 \[[preprint](https://arxiv.org/pdf/2210.10150.pdf)\]
 \
-[**J11**] H. Kim, **H. Chen**, M.F. Keskin, Y. Ge, K. Keykhosravi,  G.C. Alexandropoulos, S. Kim, and H. Wymeersch. "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." Accepted by IEEE Transactions on Wireless Communications (Major Revision), 2023.
+[**J11**] H. Kim, **H. Chen**, M.F. Keskin, Y. Ge, K. Keykhosravi,  G.C. Alexandropoulos, S. Kim, and H. Wymeersch. "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." Accepted by IEEE Transactions on Wireless Communications, 2023.
 \[[preprint](https://arxiv.org/pdf/2212.07141.pdf)\]
 \
 [**J10**] **H. Chen**, H. Kim, M. Ammous, G. Seco-Granados, G.C. Alexandropoulos, S. Valaee, and H. Wymeersch. "RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing." Accepted by IEEE Communications Magazine, 2023.
