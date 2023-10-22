@@ -23,9 +23,7 @@ Ongoing Works:
 \
 [**\*J14**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023.
 \[[preprint](https://arxiv.org/pdf/2303.11995.pdf)\]
-\
-[**\*J13**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." Submitted to IEEE Transactions on Wireless Communications (Under Review), Sep. 2022.
-\[[preprint](https://repository.kaust.edu.sa/handle/10754/685359)\]
+
 
 Articles:
 ======
@@ -35,6 +33,9 @@ Articles:
 
 Journal Papers:
 ======
+[**J13**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." IEEE Transactions on Wireless Communications, Oct. 2023.
+\[[preprint](https://repository.kaust.edu.sa/handle/10754/685359)\]
+\
 [**J12**] R. Ghazalian, **H. Chen**, G.C. Alexandropoulos, G. Seco-Granados, H. Wymeersch, and R. Jantti. "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." IEEE Transactions on Vehicular Technology, 2023.
 \[[preprint](https://arxiv.org/pdf/2210.10150.pdf)\]
 \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10225368)\]
