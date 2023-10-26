@@ -10,10 +10,13 @@ redirect_from:
 
 Biography:
 =====
-Hui Chen is currently a postdoctoral researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) ([CROSSNET Team](https://sites.google.com/site/hwymeers/research-group), supervised by [Prof. Henk Wymeersch](https://www.chalmers.se/en/staff/Pages/henk-wymeersch.aspx)), Gothenburg, Sweden. He received the Ph.D. Degree in electrical and computer engineering from [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri)), Thuwal, Saudi Arabia, in Aug. 2021. His current research interests include 5G/6G (mmWave/THz) Localization, Stochastic Optimization, and Machine Learning for Signal Processing.
+Hui Chen is currently a senior researcher at [Technology Innovation Institute](https://www.tii.ae/) ([AI and Digital Science Research Center](https://www.tii.ae/ai-and-digital-science). He was a postdoctoral researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) ([CROSSNET Team](https://sites.google.com/site/hwymeers/research-group), supervised by [Prof. Henk Wymeersch](https://www.chalmers.se/en/staff/Pages/henk-wymeersch.aspx)), Gothenburg, Sweden. He received the Ph.D. Degree in electrical and computer engineering from [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri)), Thuwal, Saudi Arabia, in Aug. 2021. His research interests include 5G/6G (mmWave/THz) Localization, Stochastic Optimization, and Machine Learning for Signal Processing.
 
 What is new:
 =====
+**2023.10:**  Started working as a **Senior Researcher** at Technology Innovation Institute, Abu Dhabi, UAE. \
+**2023.10:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "Coverage analysis of joint localization and communication in THz systems with 3D arrays." \
+**2023.10:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "Coverage analysis of joint localization and communication in THz systems with 3D arrays." \
 **2023.10:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "Coverage analysis of joint localization and communication in THz systems with 3D arrays." \
 **2023.08:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface." \
 **2023.08:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping." \
