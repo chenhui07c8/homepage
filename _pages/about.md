@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hui Chen, Postdoc, Chalmers"
+title: "Hui Chen, Senior Researcher, TII"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
