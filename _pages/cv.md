@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found here: [[CV](https://github.com/chenhui07c8/chenhui07c8.github.io/blob/master/files/CV_Chen_Hui_221101.pdf)] (last updated on 01-Nov-2023)
+My CV can be found here: [[CV](https://github.com/chenhui07c8/chenhui07c8.github.io/blob/master/files/CV_Chen_Hui_231101.pdf)] (last updated on 01-Nov-2023)
 
