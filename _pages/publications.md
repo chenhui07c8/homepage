@@ -10,18 +10,19 @@ author_profile: false
 
 Ongoing Works:
 ======
+[**\*J20**] H. Wymeersch, **H. Chen**, H. Guo, M. F. Keskin, B. M. Khorsandi, M. H. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana. "6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness." [Submitted to IEEE vehicular Technology Magazine, Sep. 2023]
+\[[preprint](https://arxiv.org/pdf/2309.13602.pdf)\]
+\
+[**\*J19**] **H. Chen**, M.F. Keskin, A. Sakhnini, N. Decarli, S. Pollin, D. Dardary, and H. Wymeersch. ``6G Localization and Sensing in the Near Field: Features, Opportunities and Challenges." Submitted to IEEE Wireless Communications, Jul. 2023
+\[[preprint](https://arxiv.org/pdf/2308.15799.pdf)\]
+\
 [**\*J18**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
+\[[preprint](https://arxiv.org/pdf/2305.08287.pdf)\]
 \
-[**\*J17**] P. Zheng, **H. Chen**, T. Ballal, M. Valkama, H. Wymeersch and T.Y. Al-Naffouri. "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." Submitted to IEEE Transactions on Wireless Communications, Apr. 2023.
-\[[preprint](https://arxiv.org/pdf/2304.00631.pdf)\]
-\
-[**\*J16**] **H. Chen**, M.F. Keskin, S. Aghdam, H. Kim, S. Lindberg, A. Wolfgang, T.E. Abrudan, T. Eriksson, and H. Wymeersch. "Modeling and Analysis of 5G/6G Localization under Hardware Impairments." Submitted to IEEE Transactions on Wireless Communication, Mar. 2023.
-\[[preprint](https://arxiv.org/pdf/2301.01042.pdf)\]
-\
-[**\*J15**] **H. Chen**, P. Zheng, M.F. Keskin, T.Y. Al-Naffouri and H. Wymeersch. "Multi-RIS-Enabled 3D Sidelink Positioning." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023
+[**\*J17**] **H. Chen**, P. Zheng, M.F. Keskin, T.Y. Al-Naffouri and H. Wymeersch. "Multi-RIS-Enabled 3D Sidelink Positioning." Submitted to IEEE Transactions on Wireless Communications, Apr. 2023.
 \[[preprint](https://arxiv.org/pdf/2302.12459.pdf)\]
 \
-[**\*J14**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Journal on Selected Areas in Communications, Feb. 2023.
+[**\*J16**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Transactions on Vehicular Technologies, Apr. 2023.
 \[[preprint](https://arxiv.org/pdf/2303.11995.pdf)\]
 
 
@@ -33,6 +34,12 @@ Articles:
 
 Journal Papers:
 ======
+[**J15**] **H. Chen**, M.F. Keskin, S. Aghdam, H. Kim, S. Lindberg, A. Wolfgang, T.E. Abrudan, T. Eriksson, and H. Wymeersch. "Modeling and Analysis of OFDM-based 5G/6G Localization under Hardware Impairments." IEEE Transactions on Wireless Communication, Nov. 2023.
+\[[preprint](https://arxiv.org/pdf/2301.01042.pdf)\]
+\
+[**J14**] P. Zheng, **H. Chen**, T. Ballal, M. Valkama, H. Wymeersch and T.Y. Al-Naffouri. "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." IEEE Transactions on Wireless Communications, Nov. 2023.
+\[[preprint](https://arxiv.org/pdf/2304.00631.pdf)\]
+\
 [**J13**] P. Zheng, T. Ballal, **H. Chen**, H. Wymeersch, and T.Y. Al-Naffouri. "Coverage Analysis of Joint Localization and Communication in THz Systems with 3D Arrays." IEEE Transactions on Wireless Communications, Oct. 2023.
 \[[preprint](https://repository.kaust.edu.sa/handle/10754/685359)\]
 \
