@@ -10,10 +10,10 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**\*J20**] H. Wymeersch, **H. Chen**, H. Guo, M. F. Keskin, B. M. Khorsandi, M. H. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana. "6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness." [Submitted to IEEE vehicular Technology Magazine, Sep. 2023]
+[**\*J20**] H. Wymeersch, **H. Chen**, H. Guo, M. F. Keskin, B. M. Khorsandi, M. H. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana. "6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness." Submitted to IEEE vehicular Technology Magazine, Sep. 2023.
 \[[preprint](https://arxiv.org/pdf/2309.13602.pdf)\]
 \
-[**\*J19**] **H. Chen**, M.F. Keskin, A. Sakhnini, N. Decarli, S. Pollin, D. Dardary, and H. Wymeersch. ``6G Localization and Sensing in the Near Field: Features, Opportunities and Challenges." Submitted to IEEE Wireless Communications, Jul. 2023
+[**\*J19**] **H. Chen**, M.F. Keskin, A. Sakhnini, N. Decarli, S. Pollin, D. Dardary, and H. Wymeersch. ``6G Localization and Sensing in the Near Field: Features, Opportunities and Challenges." Submitted to IEEE Wireless Communications, Jul. 2023.
 \[[preprint](https://arxiv.org/pdf/2308.15799.pdf)\]
 \
 [**\*J18**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
