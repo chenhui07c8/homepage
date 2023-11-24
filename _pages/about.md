@@ -14,6 +14,7 @@ Hui Chen is currently a senior researcher at [Technology Innovation Institute](h
 
 What is new:
 =====
+**2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "Modeling and Analysis of OFDM-based 5G/6G Localization under Hardware Impairments." \
 **2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." \
 **2023.10:**  Started working as a **Senior Researcher** at Technology Innovation Institute, Abu Dhabi, UAE. \
 **2023.09:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "Coverage analysis of joint localization and communication in THz systems with 3D arrays." \
