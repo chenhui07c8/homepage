@@ -14,9 +14,10 @@ Hui Chen is currently a senior researcher at [Technology Innovation Institute](h
 
 What is new:
 =====
-**2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "Modeling and Analysis of OFDM-based 5G/6G Localization under Hardware Impairments." \
-**2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems." \
-**2023.10:**  Started working as a **Senior Researcher** at Technology Innovation Institute, Abu Dhabi, UAE. \
+**2023.12:**  Our work is accepted by **IEEE Wireless Communications**: "[6G Localization and Sensing in the Near Field: Fundamentals, Opportunities, and Challenges](https://arxiv.org/pdf/2308.15799.pdf)." \
+**2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[Modeling and Analysis of OFDM-based 5G/6G Localization under Hardware Impairments](https://ieeexplore.ieee.org/document/10355872)." \
+**2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems](https://ieeexplore.ieee.org/document/10341304)." \
+**2023.10:**  Started working as a **Senior Researcher** at [Technology Innovation Institute](https://www.tii.ae/), Abu Dhabi, UAE. \
 **2023.09:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[Coverage analysis of joint localization and communication in THz systems with 3D arrays](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10295408)." \
 **2023.08:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[Joint User Localization and Location Calibration of A Hybrid Reconfigurable Intelligent Surface](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10225368)." \
 **2023.08:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10233198)." \
