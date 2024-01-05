@@ -14,7 +14,7 @@ Hui Chen is currently a senior researcher at [Technology Innovation Institute](h
 
 What is new:
 =====
-**2024.01:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[Multi-RIS-enabled 3D sidelink positioning](https://arxiv.org/pdf/2302.12459.pdf)." \
+**2024.01:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[Multi-RIS-Enabled 3D Sidelink Positioning](https://arxiv.org/pdf/2302.12459.pdf)." \
 **2023.12:**  Our work is accepted by **IEEE Wireless Communications**: "[6G Localization and Sensing in the Near Field: Features, Opportunities, and Challenges](https://arxiv.org/pdf/2308.15799.pdf)." \
 **2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[Modeling and Analysis of OFDM-based 5G/6G Localization under Hardware Impairments](https://ieeexplore.ieee.org/document/10355872)." \
 **2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[JrCUP: Joint RIS Calibration and User Positioning for 6G Wireless Systems](https://ieeexplore.ieee.org/document/10341304)." \
