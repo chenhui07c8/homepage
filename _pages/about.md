@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hui Chen, Senior Researcher, TII"
+title: "Hui Chen, Research Specialist, Chalmers University of Technology"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
