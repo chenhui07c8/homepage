@@ -12,6 +12,18 @@ Biography:
 =====
 Hui Chen is currently a Research Specialist (Permanent Researcher) at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) in [Prof. Henk Wymeersch](https://www.chalmers.se/en/staff/Pages/henk-wymeersch.aspx)'s group ([CROSSNET Team](https://sites.google.com/site/hwymeers/research-group)), Gothenburg, Sweden. He was a Postdoctoral Researcher in the same group at Chalmers and held a Senior Researcher position at [Technology Innovation Institute](https://www.tii.ae/) ([AI and Digital Science Research Center](https://www.tii.ae/ai-and-digital-science)), Abu Dhabi, UAE. He received the Ph.D. Degree in electrical and computer engineering from [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri)), Thuwal, Saudi Arabia, in Aug. 2021. His research interests include 5G/6G Localization, Mismatch Analysis and Calibration, and Machine Learning for Localization and Sensing.
 
+
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
+
+<details>
+  <summary>Hello</summary>
+  World!
+</details>
+
+
 What is new:
 =====
 **2024.05:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[Beamforming Inferring by Conditional WGAN-GP for Holographic Antenna Arrays](https://arxiv.org/pdf/2405.00391)." \
