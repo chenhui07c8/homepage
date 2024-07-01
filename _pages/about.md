@@ -43,9 +43,6 @@ What is new:
 **2023.03:**  Our work is accepted by **IEEE ICC 2023 (workshop)**: "[RIS‑Aided Monostatic Sensing and Object Detection with Single and Double Bounce Multipath](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10283494)." \
 **2023.01:**  Our work is accepted by **IEEE ICC 2023**: "[RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10279731)." \
 
-<details>
-<summary>2022</summary>
-  
 **2022.11:**  A short article is published in **Nature News & Views**: "[Phone signals can help you find your way in cities even without GPS](https://www.nature.com/articles/d41586-022-03696-3)."\
 **2022.11:**  Our work is accepted by **IEEE Vehicular Technology Magazine**: "[Positioning and Sensing in 6G: Gaps, Challenges and Opportunities](https://arxiv.org/pdf/2211.01183.pdf)."\
 **2022.10:**  **Hexa-X Deliverable D3.2** is available: "[Initial models and measurements for localisation and sensing](https://hexa-x.eu/wp-content/uploads/2022/10/Hexa-X_D3.2_v1.0.pdf)."\
@@ -57,11 +54,7 @@ What is new:
 **2022.04:**  Our work is accepted by **IEEE Communications Surveys & Tutorials**: "[A Tutorial on Terahertz-Band Localization for 6G Communication Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782674)."\
 **2022.03:**  Our work is accepted by **IEEE ICC 2022 (workshop)**: "[MCRB-based Performance Analysis of 6G Localization under Hardware Impairments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814598)."\
 **2022.01:**  **Hexa-X Deliverable D3.1** is available: "[Localization and Sensing Use Cases and Gap Analysis](https://hexa-x.eu/wp-content/uploads/2022/02/Hexa-X_D3.1_v1.4.pdf)."\
-</details>
 
-<details>
-<summary>2021</summary>
-  
 **2021.10:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications](https://ieeexplore.ieee.org/document/9591285)."\
 **2021.08:**  Started working as a **Postdoc** at Chalmers University of Technology (funded by the European Union's [Hexa-X](https://hexa-x.eu/) Project).\
 **2021.07:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach](https://ieeexplore.ieee.org/document/9506874)."\
@@ -70,12 +63,7 @@ What is new:
 **2021.04:**  Our **Smart Tap** project won first place in the Digital Research track at the [Digital Innovation Awards](https://cemse.kaust.edu.sa/stat/news/kaust-research-group-win-inaugural-mcit-digital-innovation-award), launched by the Ministry of Communications and Information Technology ([MCIT](https://www.mcit.gov.sa/en)), Saudi Arabia.\
 **2021.01:**  Our work is accepted by **IEEE Signal Processing Letters**: "[A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)."\
 **2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020** (online), Amsterdam, Netherlands:"[Phase-Difference-Based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)."\
-</details>
 
-
-<details>
-<summary>2020 and Before</summary>
-  
 <b>2020.10:</b>  Participated [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.05:**  Our work is accepted by **IEEE Transactions on Instrumentation and Measurement**: "[Air-Writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)."\
 **2020.04:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)."\
@@ -94,7 +82,5 @@ What is new:
 **2017.08:**  TA in graduate course EE242 Digital Communication and Coding (2017-2018 Fall).\
 **2017.04:**  Obtained the **4th place** in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).\
 **2017.02:**  Successfully passed the written EE **PhD qualifying exam**.\
-**2016.08:**  Started my **PhD study** (with full financial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST).\
-  
-</details>
+**2016.08:**  Started my **PhD study** (with full financial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST).
 
