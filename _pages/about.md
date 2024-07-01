@@ -18,10 +18,7 @@ Hui Chen is currently a Research Specialist (Permanent Researcher) at [Chalmers 
   World!
 </details>
 
-<details>
-  <summary>Hello</summary>
-  World!
-</details>
+
 
 
 What is new:
@@ -55,8 +52,15 @@ What is new:
 **2022.04:**  Our work is accepted by **IEEE Communications Surveys & Tutorials**: "[A Tutorial on Terahertz-Band Localization for 6G Communication Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782674)."\
 **2022.03:**  Our work is accepted by **IEEE ICC 2022 (workshop)**: "[MCRB-based Performance Analysis of 6G Localization under Hardware Impairments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814598)."\
 **2022.01:**  **Hexa-X Deliverable D3.1** is available: "[Localization and Sensing Use Cases and Gap Analysis](https://hexa-x.eu/wp-content/uploads/2022/02/Hexa-X_D3.1_v1.4.pdf)."\
+
+<details>
+<summary>2021</summary>
 **2021.10:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications](https://ieeexplore.ieee.org/document/9591285)."\
 **2021.08:**  Started working as a **Postdoc** at Chalmers University of Technology (funded by the European Union's [Hexa-X](https://hexa-x.eu/) Project).\
+</details>
+
+<details>
+<summary>Before 2020</summary>
 **2021.07:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[DOA Estimation with Non-Uniform Linear Arrays: A Phase-Difference Projection Approach](https://ieeexplore.ieee.org/document/9506874)."\
 **2021.07:**  Defended my Ph.D. Thesis: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!!\
 **2021.06:**  Our **Waste Management** project is selected to present in Swiss–Middle East Circular Economy for Youth Initiative ([SMECEYI](https://swisspavilion.org/recycling-with-nommas/)), Swiss Pavilion, Expo Dubai, UAE.\
@@ -81,4 +85,6 @@ What is new:
 **2017.08:**  TA in graduate course EE242 Digital Communication and Coding (2017-2018 Fall).\
 **2017.04:**  Obtained the **4th place** in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).\
 **2017.02:**  Successfully passed the written EE **PhD qualifying exam**.\
-**2016.08:**  Started my **PhD study** (with full finantial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST).
+**2016.08:**  Started my **PhD study** (with full financial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST).
+</details>
+
