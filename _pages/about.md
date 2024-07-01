@@ -51,7 +51,7 @@ What is new:
 **2022.04:**  Our work is accepted by **IEEE Communications Surveys & Tutorials**: "[A Tutorial on Terahertz-Band Localization for 6G Communication Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782674)."\
 **2022.03:**  Our work is accepted by **IEEE ICC 2022 (workshop)**: "[MCRB-based Performance Analysis of 6G Localization under Hardware Impairments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814598)."\
 **2022.01:**  **Hexa-X Deliverable D3.1** is available: "[Localization and Sensing Use Cases and Gap Analysis](https://hexa-x.eu/wp-content/uploads/2022/02/Hexa-X_D3.1_v1.4.pdf)."\
-</detail>
+</details>
 
 <details>
 <summary>2021</summary>
