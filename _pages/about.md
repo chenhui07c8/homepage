@@ -76,7 +76,7 @@ What is new:
 <details>
 <summary>2020 and Before</summary>
   
-**2020.10:**  Participated [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
+<b>2020.10:</b>  Participated [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.05:**  Our work is accepted by **IEEE Transactions on Instrumentation and Measurement**: "[Air-Writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)."\
 **2020.04:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)."\
 **2020.04:**  Started an **Internship at NEOM** working as a Mixed Reality Developer.\
