@@ -13,11 +13,6 @@ Biography:
 Hui Chen is currently a Research Specialist (Permanent Researcher) at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) in [Prof. Henk Wymeersch](https://www.chalmers.se/en/staff/Pages/henk-wymeersch.aspx)'s group ([CROSSNET Team](https://sites.google.com/site/hwymeers/research-group)), Gothenburg, Sweden. He was a Postdoctoral Researcher in the same group at Chalmers and held a Senior Researcher position at [Technology Innovation Institute](https://www.tii.ae/) ([AI and Digital Science Research Center](https://www.tii.ae/ai-and-digital-science)), Abu Dhabi, UAE. He received the Ph.D. Degree in electrical and computer engineering from [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri)), Thuwal, Saudi Arabia, in Aug. 2021. His research interests include 5G/6G Localization, Mismatch Analysis and Calibration, and Machine Learning for Localization and Sensing.
 
 
-<details open>
-  <summary>Hello</summary>
-  World!
-</details>
-
 
 
 
@@ -74,6 +69,7 @@ What is new:
 
 <details>
 <summary>2020 and Before</summary>
+  
 **2020.10:**  Participated [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.05:**  Our work is accepted by **IEEE Transactions on Instrumentation and Measurement**: "[Air-Writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)."\
 **2020.04:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[A Joint TDOA-PDOA Localization Approach Using Particle Swarm Optimization](https://ieeexplore.ieee.org/iel7/5962382/6065724/09062333.pdf)."\
@@ -92,6 +88,7 @@ What is new:
 **2017.08:**  TA in graduate course EE242 Digital Communication and Coding (2017-2018 Fall).\
 **2017.04:**  Obtained the **4th place** in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).\
 **2017.02:**  Successfully passed the written EE **PhD qualifying exam**.\
-**2016.08:**  Started my **PhD study** (with full financial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST).
+**2016.08:**  Started my **PhD study** (with full financial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST).\
+  
 </details>
 
