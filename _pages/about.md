@@ -19,9 +19,9 @@ Hui Chen is currently a Research Specialist (Permanent Researcher) at [Chalmers 
 What is new:
 =====
 **2024.07:**  Two papers are accepted by **IEEE SPAWC 2024**.\
-**2024.06:**  Started my 1-month **Research Visit** in Prof. Lihua Xie's group at **Nanyang Technological University**.\
+**2024.06:**  Started my 1-month **Research Visit** in Prof. Lihua Xie's group at Nanyang Technological University, Singapore.\
 **2024.06:**  We have successfully given a half-day tutorial in **IEEE VTC 2024-Spring**: "[T4: Localization and Sensing in RIS-Aided Wireless Communication Systems](https://events.vtsociety.org/vtc2024-spring/conference-sessions/tutorials-available/t4-localization-and-sensing-in-ris-aided-wireless-communication-systems/)." \
-**2024.06:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport]([https://arxiv.org/pdf/2405.00391](https://ieeexplore.ieee.org/document/10568571))." \
+**2024.06:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport](https://ieeexplore.ieee.org/document/10568571)." \
 **2024.05:**  Our **Area-of-Advance Transport Collaborative Project" got funded by Chalmers (2M SEK):
 **2024.05:**  Our **Area-of-Advance Transport Seed Project" got funded by Chalmers (415K SEK):
 **2024.05:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[Beamforming Inferring by Conditional WGAN-GP for Holographic Antenna Arrays](https://arxiv.org/pdf/2405.00391)." \
