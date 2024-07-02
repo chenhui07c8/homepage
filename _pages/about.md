@@ -22,8 +22,8 @@ What is new:
 **2024.06:**  Started my 1-month **Research Visit** in Prof. Lihua Xie's group at Nanyang Technological University, Singapore.\
 **2024.06:**  We have successfully given a half-day tutorial in **IEEE VTC 2024-Spring**: "[T4: Localization and Sensing in RIS-Aided Wireless Communication Systems](https://events.vtsociety.org/vtc2024-spring/conference-sessions/tutorials-available/t4-localization-and-sensing-in-ris-aided-wireless-communication-systems/)." \
 **2024.06:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport](https://ieeexplore.ieee.org/document/10568571)." \
-**2024.05:**  Our **Area-of-Advance Transport Collaborative Project" got funded by Chalmers (2M SEK):
-**2024.05:**  Our **Area-of-Advance Transport Seed Project" got funded by Chalmers (415K SEK):
+**2024.05:**  Our **Area-of-Advance Transport Collaborative Project** got funded by Chalmers (2M SEK).\
+**2024.05:**  Our **Area-of-Advance Transport Seed Project** got funded by Chalmers (415K SEK).\
 **2024.05:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[Beamforming Inferring by Conditional WGAN-GP for Holographic Antenna Arrays](https://arxiv.org/pdf/2405.00391)." \
 **2024.04:**  Our work is accepted by **IEEE PIMRC 2024**: "[ELAA Near-Field Localization and Sensing with Partial Blockage Detection](https://arxiv.org/pdf/2402.15857)." \
 **2024.02:**  Started working as a **Research Specialist** at Chalmers University of Technology.\
@@ -41,7 +41,7 @@ What is new:
 **2023.03:**  Our work is accepted by **IEEE Communications Magazine**: "[RISs and Sidelink Communications in Smart Cities: The Key to Seamless Localization and Sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230036)." \
 **2023.03:**  Our work is accepted by **IEEE ICASSP 2023**: "[Misspecified Cramer-Rao Bound of RIS-aided Localization under Geometry Mismatch](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096904)." \
 **2023.03:**  Our work is accepted by **IEEE ICC 2023 (workshop)**: "[RIS‑Aided Monostatic Sensing and Object Detection with Single and Double Bounce Multipath](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10283494)." \
-**2023.01:**  Our work is accepted by **IEEE ICC 2023**: "[RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10279731)." \
+**2023.01:**  Our work is accepted by **IEEE ICC 2023**: "[RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10279731)."
 
 **2022.11:**  A short article is published in **Nature News & Views**: "[Phone signals can help you find your way in cities even without GPS](https://www.nature.com/articles/d41586-022-03696-3)."\
 **2022.11:**  Our work is accepted by **IEEE Vehicular Technology Magazine**: "[Positioning and Sensing in 6G: Gaps, Challenges and Opportunities](https://arxiv.org/pdf/2211.01183.pdf)."\
@@ -53,7 +53,7 @@ What is new:
 **2022.04:**  Our work is accepted by **EuCNC & 6G Summit 2022**: "[6G Radio Requirements to Support Integrated Communication, Localization, and Sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9815783)."\
 **2022.04:**  Our work is accepted by **IEEE Communications Surveys & Tutorials**: "[A Tutorial on Terahertz-Band Localization for 6G Communication Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782674)."\
 **2022.03:**  Our work is accepted by **IEEE ICC 2022 (workshop)**: "[MCRB-based Performance Analysis of 6G Localization under Hardware Impairments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814598)."\
-**2022.01:**  **Hexa-X Deliverable D3.1** is available: "[Localization and Sensing Use Cases and Gap Analysis](https://hexa-x.eu/wp-content/uploads/2022/02/Hexa-X_D3.1_v1.4.pdf)."\
+**2022.01:**  **Hexa-X Deliverable D3.1** is available: "[Localization and Sensing Use Cases and Gap Analysis](https://hexa-x.eu/wp-content/uploads/2022/02/Hexa-X_D3.1_v1.4.pdf)."
 
 **2021.10:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications](https://ieeexplore.ieee.org/document/9591285)."\
 **2021.08:**  Started working as a **Postdoc** at Chalmers University of Technology (funded by the European Union's [Hexa-X](https://hexa-x.eu/) Project).\
@@ -62,7 +62,7 @@ What is new:
 **2021.06:**  Our **Waste Management** project is selected to present in Swiss–Middle East Circular Economy for Youth Initiative ([SMECEYI](https://swisspavilion.org/recycling-with-nommas/)), Swiss Pavilion, Expo Dubai, UAE.\
 **2021.04:**  Our **Smart Tap** project won first place in the Digital Research track at the [Digital Innovation Awards](https://cemse.kaust.edu.sa/stat/news/kaust-research-group-win-inaugural-mcit-digital-innovation-award), launched by the Ministry of Communications and Information Technology ([MCIT](https://www.mcit.gov.sa/en)), Saudi Arabia.\
 **2021.01:**  Our work is accepted by **IEEE Signal Processing Letters**: "[A Maximum-Likelihood TDOA Localization Algorithm Using Difference-of-Convex Programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9325001)."\
-**2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020** (online), Amsterdam, Netherlands:"[Phase-Difference-Based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)."\
+**2021.01:**  Presented (**Oral**) our paper in **Eusipco 2020** (online), Amsterdam, Netherlands:"[Phase-Difference-Based 3-D Source Localization Using a Compact Receiver Configuration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287378)."
 
 <b>2020.10:</b>  Participated [NEOM AI Challenge](https://neomchallenge.com/en) as 1 of the 3 KAUST Teams (100+ teams from 40 universities) with [Utopia Project](https://www.youtube.com/watch?v=5-30Z7Omugw) (Smart Tap), we made it to the TOP-5 finalist in Energy-Track.\
 **2020.05:**  Our work is accepted by **IEEE Transactions on Instrumentation and Measurement**: "[Air-Writing via Receiver Array Based Ultrasonic Source Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9082625)."\
