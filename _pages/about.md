@@ -18,8 +18,8 @@ Hui Chen is currently a Research Specialist (Permanent Researcher) at [Chalmers 
 
 What is new:
 =====
-**2024.08:**  Three papers are accepted by **IEEE GLOBECOM 2024**.\
-**2024.07:**  Two papers are accepted by **IEEE SPAWC 2024**.\
+**2024.08:**  3 papers are accepted by **IEEE GLOBECOM 2024**.\
+**2024.07:**  2 papers are accepted by **IEEE SPAWC 2024**.\
 **2024.06:**  Started my 1-month **Research Visit** in Prof. Lihua Xie's group at Nanyang Technological University, Singapore.\
 **2024.06:**  We have successfully given a half-day tutorial in **IEEE VTC 2024-Spring**: "[T4: Localization and Sensing in RIS-Aided Wireless Communication Systems](https://events.vtsociety.org/vtc2024-spring/conference-sessions/tutorials-available/t4-localization-and-sensing-in-ris-aided-wireless-communication-systems/)." \
 **2024.06:**  Our work is accepted by **IEEE Transactions on Vehicular Technology**: "[Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport](https://ieeexplore.ieee.org/document/10568571)." \
