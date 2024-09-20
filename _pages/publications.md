@@ -16,8 +16,7 @@ Ongoing Works:
 [**\*J19**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
 \[[preprint](https://arxiv.org/pdf/2305.08287.pdf)\]
 \
-[**\*J18**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." Submitted to IEEE Transactions on Vehicular Technologies, Apr. 2023.
-\[[preprint](https://arxiv.org/pdf/2303.11995.pdf)\]
+
 
 
 Articles:
@@ -28,6 +27,15 @@ Articles:
 
 Journal Papers:
 ======
+[**J20**] E. Ibrahim, **H. Chen**, Z. Ye, R. Ghazalian, H. Kim, R. Nilsson, H. Wymeersch, and J. Beek.. "Inferring Direction and Orientation from Polarized Signals: Feasibility and Bounds." IEEE Open Journal of the Communications Society. 2024.
+\[[paper]([https://arxiv.org/pdf/2303.11995.pdf](https://ieeexplore.ieee.org/document/10681525))\]
+\
+[**J19**] Y. Ge, H. Khosravi, F. Jiang, **H. Chen**, S. Lindberg, P. Hammarberg, H. Kim, O. Brunnegard, O. Eriksson, B.E. Olsson, F. Tufvesson, L. Svensson, and H. Wymeersch. "Experimental Validation of Single BS 5G mmWave Positioning and Mapping for Intelligent Transport." IEEE Transactions on Vehicular Technologies. 2024.
+\[[preprint](https://arxiv.org/pdf/2303.11995.pdf)\]\[[paper]([https://arxiv.org/pdf/2303.11995.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10568571))\]
+\
+[**J18**] F. Zhu, X. Wang, C. Huang, A. Alhammadi, **H. Chen**, Z. Zhang, C. Yuen, M. Debbah.. "Beamforming Inferring byConditional WGAN-GP for Holographic Antenna Arrays." IEEE Wireless Communications Letters. 2024.
+\[[paper]([https://arxiv.org/pdf/2303.11995.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10531779))\]
+\
 [**J17**] **H. Chen**, P. Zheng, M.F. Keskin, T.Y. Al-Naffouri and H. Wymeersch. "Multi-RIS-Enabled 3D Sidelink Positioning." IEEE Transactions on Wireless Communications, 2024.
 \[[preprint](https://arxiv.org/pdf/2302.12459.pdf)\]
 \
