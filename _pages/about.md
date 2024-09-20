@@ -18,7 +18,7 @@ Hui Chen is currently a Research Specialist (Permanent Researcher) at [Chalmers 
 
 What is new:
 =====
-**2024.09:**  Our work is accepted by **IEEE Open Journal of Communications**: "[Inferring Direction and Orientation from Polarized Signals: Feasibility and Bounds](https://ieeexplore.ieee.org/document/10681525)." \
+**2024.09:**  Our work is accepted by **IEEE Open Journal of the Communications Society**: "[Inferring Direction and Orientation from Polarized Signals: Feasibility and Bounds](https://ieeexplore.ieee.org/document/10681525)." \
 **2024.08:**  3 papers are accepted by **IEEE GLOBECOM 2024**.\
 **2024.07:**  2 papers are accepted by **IEEE SPAWC 2024**.\
 **2024.06:**  Started my 1-month **Research Visit** in Prof. Lihua Xie's group at Nanyang Technological University, Singapore.\
