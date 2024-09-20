@@ -10,10 +10,10 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**\*J20**] H. Wymeersch, **H. Chen**, H. Guo, M. F. Keskin, B. M. Khorsandi, M. H. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana. "6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness." Submitted to IEEE Vehicular Technology Magazine, Sep. 2023.
+[**\*J22**] H. Wymeersch, **H. Chen**, H. Guo, M. F. Keskin, B. M. Khorsandi, M. H. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana. "6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness." Submitted to IEEE Vehicular Technology Magazine, Sep. 2023.
 \[[preprint](https://arxiv.org/pdf/2309.13602.pdf)\]
 \
-[**\*J19**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
+[**\*J21**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
 \[[preprint](https://arxiv.org/pdf/2305.08287.pdf)\]
 \
 
