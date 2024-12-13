@@ -21,7 +21,7 @@ What is new:
 **2024.12:**  Our work is accepted by **IEEE Wireless Communications**: "[Integrated Communication, Localization, and Sensing in 6G D-MIMO Networks](https://arxiv.org/pdf/2403.19785)." \
 **2024.12:**  Our work is accepted by **IEEE Wireless Communications**: "[6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness](https://arxiv.org/pdf/2309.13602)." \
 **2024.11:**  I served as a **Jury Member** in "B5G localization based on channel charting", Huawei Hackathon, Stockholm, Sweden.\
-**2024.11:**  Funding application of "**International Individual Mobility for Cutting-edge Technology**" granted by Swedish Vinnova.\
+**2024.11:**  Funding application of "**International Individual Mobility for Cutting-edge Technology**" granted by Vinnova.\
 **2024.10:**  I served as a **Panel Moderator** in "Swedish Communication Technology Workshop (Swe-CTW 2024)", Gothenburg, Sweden.\
 **2024.10:**  I served as a **Judging Panel Member** in the "Best Student Paper Award, IEEE Sweden VT/COM/IT Chapter", Gothenburg, Sweden.\
 **2024.09:**  Our work is accepted by **IEEE Open Journal of the Communications Society**: "[Inferring Direction and Orientation from Polarized Signals: Feasibility and Bounds](https://ieeexplore.ieee.org/document/10681525)." \
