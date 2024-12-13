@@ -10,10 +10,15 @@ author_profile: false
 
 Ongoing Works:
 ======
-[**\*J22**] H. Wymeersch, **H. Chen**, H. Guo, M. F. Keskin, B. M. Khorsandi, M. H. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana. "6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness." Submitted to IEEE Vehicular Technology Magazine, Sep. 2023.
-\[[preprint](https://arxiv.org/pdf/2309.13602.pdf)\]
+[**\*J27**] Y. Zhang, **H. Chen**, M. F. Keskin, A. Pourafzal, P. Zheng, H. Wymeersch, and T. Y. Al-Naffouri. "Privacy Preservation in MIMO-OFDM Localization Systems: A Beamforming Approach." Submitted to IEEE Transactions on Vehicular Technology, 2024.
 \
-[**\*J21**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
+[**\*J26**] A. Fadakar, M. F. Keskin, **H. Chen**, H. Wymeersch. "Mutual Coupling-Aware Localization for RIS-Assisted ISAC Systems." Submitted to IEEE Transactions on Cognitive Communications and Networking, 2024.
+\
+[**\*J25**] C. Sun, X. Fang, Y. Ma, **H. Chen**, X. Sun. "Maneuvering Multiple Hypersonic Flight Vehicles via a Hierarchical Control Framework." Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2024.
+\  
+[**\*J24**] R. Ghazalian, P. Zheng, **H. Chen**, C. Ozturk, M. F. Keskin, V. Sciancalepore, S. Gezici, T. Y. Al-Naffouri, H. Wymeersch. "Calibration in RIS-aided Integrated Sensing, Localization and Communication Systems." Submitted to IEEE Wireless Communications, 2024. \[[preprint](https://arxiv.org/pdf/2409.16931)\]
+\
+[**\*J23**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
 \[[preprint](https://arxiv.org/pdf/2305.08287.pdf)\]
 \
 
@@ -27,6 +32,10 @@ Articles:
 
 Journal Papers:
 ======
+[**J22**] H. Guo, B. Makki, H. Wymeersch, \textbf{H. Chen}, Y. Wu, G. Durisi, M. F. Keskin, M. H. Moghaddam, C. Madapatha, H. Yu, P. Hammarberg, H. Kim, T. Svensson. "Integrated Communication, Localization, and Sensing in 6G D-MIMO Networks." IEEE Wireless Commun., 2024.
+\
+[**J21**] H. Wymeersch, **H. Chen**, H. Guo, M. F. Keskin, B. M. Khorsandi, M. H. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana. "6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness." IEEE Wireless Commun., 2024.
+\
 [**J20**] E. Ibrahim, **H. Chen**, Z. Ye, R. Ghazalian, H. Kim, R. Nilsson, H. Wymeersch, and J. Beek.. "Inferring Direction and Orientation from Polarized Signals: Feasibility and Bounds." IEEE Open Journal of the Communications Society. 2024.
 \[[paper]([https://arxiv.org/pdf/2303.11995.pdf](https://ieeexplore.ieee.org/document/10681525))\]
 \
