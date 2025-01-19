@@ -115,19 +115,19 @@ Conference Papers:
 ======
 [**C27**] Y. Ge, O. Kaltiokallio, **H. Chen**, J. Talvitie, Y. Xia, G. Madhusudan, G. Larue, L. Svensson, M. Valkama, and H. Wymeersch. "Target Handover in Distributed Integrated Sensing and Communication." In Proc. IEEE International Conference on Communication (ICC), 2025.
 \
-[**C26**] A. Pourafzal, **H. Chen**, M. Srinivasan, Y. Zhang, and H. Wymeersch. "Cooperative Impersonation in Angle-based Physical Layer Authentication." In Proc. IEEE International Conference on Communication (ICC)}, 2025.
-\   
-[**C25**] M. Raeisi, **H. Chen**, H. Wymeersch, and E. Basar. "Efficient Localization with Base Station-Integrated Beyond Diagonal RIS." In \textit{Proc. IEEE International Conference on Communication (ICC)}, 2025.
-\        
-[**C24**] J. He, C. Vanwynsberghe, **H. Chen**, C. Huang, and A. Fakhreddine. "Device-Free 3D Drone Localization in RIS-Assisted mmWave MIMO Networks." In Proc. IEEE Global Communications Conference (GLOBECOM)}, 2024.
+[**C26**] A. Pourafzal, **H. Chen**, M. Srinivasan, Y. Zhang, and H. Wymeersch. "Cooperative Impersonation in Angle-based Physical Layer Authentication." In Proc. IEEE International Conference on Communication (ICC), 2025.
+\
+[**C25**] M. Raeisi, **H. Chen**, H. Wymeersch, and E. Basar. "Efficient Localization with Base Station-Integrated Beyond Diagonal RIS." In Proc. IEEE International Conference on Communication (ICC), 2025.
+\
+[**C24**] J. He, C. Vanwynsberghe, **H. Chen**, C. Huang, and A. Fakhreddine. "Device-Free 3D Drone Localization in RIS-Assisted mmWave MIMO Networks." In Proc. IEEE Global Communications Conference (GLOBECOM), 2024.
 \
 [**C23**] Y. Ge, M. Stark, M. Keskin, **H. Chen, G. Jornod, T. Hansen, F. Hofmann, and H. Wymeersch. "V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking." In Proc. IEEE Global Communications Conference (GLOBECOM)}, 2024.
 \   
-[**C22**] Y. Zhang, **H. Chen**, and H. Wymeersch. "Privacy Preservation: Artificial Multipath or Artificial Noise." In \textit{Proc. IEEE Global Communications Conference (GLOBECOM), 2024.
+[**C22**] Y. Zhang, **H. Chen**, and H. Wymeersch. "Privacy Preservation: Artificial Multipath or Artificial Noise." In Proc. IEEE Global Communications Conference (GLOBECOM), 2024.
 \   
-[**C21**] B. Sun, M.F. Keskin, M. Rahal,  **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Near-field RIS-aided Localization Under Channel Non-Stationarity: A Mismatched Model Approach." In Proc. IEEE Int. Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2024.
+[**C21**] B. Sun, M.F. Keskin, M. Rahal,  **H. Chen**, J. Talvitie, H. Wymeersch, and M. Valkama. "Near-field RIS-aided Localization Under Channel Non-Stationarity: A Mismatched Model Approach." In Proc. IEEE SPAWC, 2024.
 \
-[**C20**] M. Srinivasan, L. Senigagliesi, **H. Chen**, A. Chorti, M. Baldi, and H. Wymeersch. "AoA-Based Physical Layer Authentication in Analog Arrays under Impersonation Attacks." In Proc. IEEE Int. Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2024.
+[**C20**] M. Srinivasan, L. Senigagliesi, **H. Chen**, A. Chorti, M. Baldi, and H. Wymeersch. "AoA-Based Physical Layer Authentication in Analog Arrays under Impersonation Attacks." In Proc. IEEE SPAWC, 2024.
 \
 [**C19**] **H. Chen**, P. Zheng, Y. Ge, A Elzanaty, J. He, T.Y. Al-Naffouri, and H. Wymeersch. "ELAA Near-Field Localization and Sensing with Partial Blockage Detection." In Proc. IEEE PIMRC, 2024.
 \
