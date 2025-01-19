@@ -18,6 +18,7 @@ Hui Chen is currently a Research Specialist (Permanent Researcher) at [Chalmers 
 
 What is new:
 =====
+**2024.08:**  3 papers and 1 tutorial are accepted by **IEEE ICC 2025**, see you in Montreal, Canada!\
 **2024.12:**  Our work is accepted by **IEEE Wireless Communications**: "[Integrated Communication, Localization, and Sensing in 6G D-MIMO Networks](https://arxiv.org/pdf/2403.19785)." \
 **2024.12:**  Our work is accepted by **IEEE Wireless Communications**: "[6G Positioning and Sensing Through the Lens of Sustainability, Inclusiveness, and Trustworthiness](https://arxiv.org/pdf/2309.13602)." \
 **2024.11:**  I served as a **Jury Member** in "B5G localization based on channel charting", Huawei Hackathon, Stockholm, Sweden.\
